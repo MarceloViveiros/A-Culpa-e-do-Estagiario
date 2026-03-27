@@ -1,47 +1,92 @@
 import requests
 import json #1 biblioteca pra dar jeito nos arquivos JSON
+import time # Ferramenta para dar uns respiros pro robozin
+import os #Biblioteca para ler o sistema operacional
+from dotenv import load_dotenv #biblioteca para ler o .env
 
-url_api = 'https://api.github.com/repos/backend-br/vagas/issues'
-print(f"Acessando o GitHub: {url_api} ...")
 
-resposta = requests.get(url_api)
+#Carrega as variáveis escondidas no arquivo .env
+load_dotenv()
+# Pegamos o token
+meu_token = os.getenv('GITHUB_TOKEN')
 
-if resposta.status_code == 200:
-    lista_de_vagas = resposta.json()
-    print(f"Sucesso! o GitHub entregou {len(lista_de_vagas)} vagas brutas. \n")
+print(f"DEBUG: O meu token carregou? -> {meu_token}")
 
-    #O FILTRO
-    vagas_filtradas = [] #lista vazia pra guardar vagas que eu procuro
-    palavras_chave = ['estágio', 'estagio', 'estagiário', 'estagiario']
+# 2.Cria o cabeçalho de autenticação
+headers = {
+    'Authorization': f'Bearer {meu_token}',
+    'Accept': 'application/vnd.github.v3+json'
+}
 
-    for vaga in lista_de_vagas:
-        #vamos pegar o titulo minúsculo e o link
-        titulo = vaga['title'].lower()
-        url_vaga = vaga['html_url']
+#Escalabilidade: Lista de URLS
+repositorios = [
+    'backend-br/vagas',
+    'frontendbr/vagas',
+    'react-brasil/vagas',
+    'androiddevbr/vagas',
+    'CocoaHeadsBrasil/vagas',
+    'qa-brasil/vagas',
+    'vuejs-br/vagas',
+    'brasil-php/vagas',
+    'pydevbr/vagas',
+    'kotlin-br/vagas',
+    'remotejobsbr/design-ux-vagas',
+    'remotejobsbr/trabalho-remoto-vagas',
+]
 
-        #Tem alguma das palavras chaves no titulo?
-        eh_estagio = any(palavra in titulo for palavra in palavras_chave)
+vagas_filtradas = [] #Bau onde guardar as vagas
 
-        #Se for estagio guarda o titulo e o link
-        if eh_estagio:
+print("Ligando a turbina de busca...\n")
+print("-" * 40)#linhas fofas
+
+#Lista de palavras chave
+palavras_chave = ['estágio', 'estagio', 'estagiário', 'estagiario']
+
+# Pedi pro Python juntar essas palavras com o '+OR+'
+# O resultado disso vai ser: "estágio+OR+estagio..."cls
+query_palavras = '+OR+'.join(palavras_chave)
+
+#Loop: para cada repositório da lista execute o seguinte:
+for repo in repositorios:
+    print(f"Vasculhando o repositório: {repo}")
+
+    #A API vai busccar de acordo com nossa URL montada no query
+    url_busca = f"https://api.github.com/search/issues?q={query_palavras}+repo:{repo}+state:open"
+
+    #Manda pro mensageiro
+    resposta = requests.get(url_busca, headers=headers)
+
+    if resposta.status_code == 200: #deu bom
+        dados = resposta.json()
+
+        #A API já diz quantos resultados achou antes de listar
+        total_encontrado = dados.get('total_count', 0)
+        print(f"Encontramos {total_encontrado} vagas aqui!")
+
+        #As vagas em si ficam guardadas dentro de uma lista chamada 'items'
+        lista_de_vagas = dados.get('items', [])
+
+        #Le cada vaga encontrada e guarda no bau
+
+        for vaga in lista_de_vagas:
             vagas_filtradas.append({
                 'titulo': vaga['title'],
-                'link': url_vaga
+                'link': vaga['html_url'],
+                'repositorio': repo #guarda de onde a vaga veio
             })
+    
+    else:
+        print(f"Ops! Deu erro no {repo}. Código: {resposta.status_code}")
 
-    #O RELATATÓRIO
-    print("-" * 40)#linha fofa
-    print(f"Vagas de Estágio que passaram no filtro: {len(vagas_filtradas)}")
-    for v in vagas_filtradas:
-        print(f"{v['titulo']}")
-        print(f"{v['link']}\n")
-    print("-" * 40)#linha fofa
+        #Rate limit, colocar o robozin pra descansar por 3 segundos pra não dar ruim nas solicitações
+    time.sleep(3)
+print("-" * 40 )#linha fofa
+print(f"Resumo Final: Coletei um total de {len(vagas_filtradas)} vagas de estágio!")
 
-    #ARMAZENAMENTO
-    #Vamos criar um arquivo 'vagas.json' e jogamos nossa lista filtrada nele
-    with open('vagas.json', 'w', encoding='utf-8') as arquivo:
-        json.dump(vagas_filtradas, arquivo,ensure_ascii=False, indent=4)
-        print("Arquivo 'vagas.json' atualizado com sucesso!")
-        
-else:
-    print(f"Ops! A API bloqueou o acesso. Erro Código: {resposta.status_code}")
+#Salvando no banco de dados
+with open('vagas.json', 'w', encoding='utf-8') as arquivo:
+    json.dump(vagas_filtradas, arquivo, ensure_ascii=False, indent=4)
+    print("Arquivo 'vagas.json' atualizado com sucesso e cheio de vagas!")
+
+
+
