@@ -10,8 +10,6 @@ load_dotenv()
 # Pegamos o token
 meu_token = os.getenv('GITHUB_TOKEN')
 
-print(f"DEBUG: O meu token carregou? -> {meu_token}")
-
 # 2.Cria o cabeçalho de autenticação
 headers = {
     'Authorization': f'Bearer {meu_token}',
@@ -40,7 +38,7 @@ print("Ligando a turbina de busca...\n")
 print("-" * 40)#linhas fofas
 
 #Lista de palavras chave
-palavras_chave = ['estágio', 'estagio', 'estagiário', 'estagiario']
+palavras_chave = ['estágio', 'estagio', 'estagiário', 'estagiario', 'trainee']
 
 # Pedi pro Python juntar essas palavras com o '+OR+'
 # O resultado disso vai ser: "estágio+OR+estagio..."cls

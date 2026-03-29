@@ -1,0 +1,104 @@
+/*Tira as margens que os navegadores colocam por padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*Um cinza bem clarinho para as caixas brancas ganharem destaque */
+body {
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* O Cabeçalho (Header) */
+header {
+    background-color: #2c3e50; /* Azul escuro */
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/*Centraliza container principal do site e não deixa ele esticar demais em monitores grandes */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Transforma cada vaga em uma card flutuante */
+.card-vaga {
+    background-color: white;
+    border-radius: 8px; /* Bordas arredondadas */
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* Sombra suave */
+    border-left: 5px solid #3498db; /* Detalhe azul na lateral */
+    transition: transform 0.2s ease; /* Animação suave... */
+}
+
+/* cria movimento no card */
+.card-vaga:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card-vaga h2 {
+    color: #2c3e50;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-vaga p {
+    color: #7f8c8d;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+/* botão do link */
+.card-vaga a {
+    display: inline-block;
+    background-color: #3498db; /* Azul claro */
+    color: white;
+    text-decoration: none; /* Tira o sublinhado */
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.card-vaga a:hover {
+    background-color: #2980b9; /* Fica mais escuro ao passar o mouse */
+}
+
+/* Escondendo aquela linha horizontal do HTML */
+.card-vaga hr {
+    display: none; 
+}
+
+/*Barra de Pesquisa */
+.busca-container {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#input-busca {
+    width: 100%;
+    max-width: 600px;
+    padding: 1rem;
+    border: 2px solid #bdc3c7;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    outline: none; /* Tira aquela borda */
+    transition: border-color 0.3s;
+}
+
+/* Quando o usuário clica dentro da barra, ela brilha em azul */
+#input-busca:focus {
+    border-color: #3498db;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
+}
