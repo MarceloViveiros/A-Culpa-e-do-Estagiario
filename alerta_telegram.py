@@ -20,8 +20,8 @@ if os.path.exists('vagas.json'):
 link_do_site = "https://SEU_USUARIO.github.io/A-Culpa-e-do-Estagiario/"
 
 mensagem = (
-    f"🤖 O Estagiário Automático terminou a varredura!*\n\n"
-    f"Hoje temos *{total_vagas} vagas* de Estágio e Júnior fresquinhas esperando por você na vitrine.\n\n"
+    f"🤖 <b>Bip Bop! O Estagiário Automático terminou a varredura!</b>\n\n"
+    f"Hoje temos <b>{total_vagas} vagas</b> de Estágio e Júnior fresquinhas esperando por você na vitrine.\n\n"
     f"👉 Confira todas aqui: {link_do_site}"
 )
 
@@ -31,7 +31,7 @@ if token and chat_id and total_vagas > 0:
     payload = {
         "chat_id": chat_id, 
         "text": mensagem, 
-        "parse_mode": "Markdown"
+        "parse_mode": "HTML" # correção
     }
     
     resposta = requests.post(url_api, data=payload)
