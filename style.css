@@ -102,3 +102,33 @@ main {
     border-color: #3498db;
     box-shadow: 0 0 8px rgba(52, 152, 219, 0.3);
 }
+
+/* Estilos do Botão do Telegram */
+.container-telegram {
+    text-align: center; /* Centraliza o botão na tela */
+    margin: 20px 0; /* Dá um respiro em cima e embaixo */
+}
+
+.btn-telegram {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0088cc; /* Azul oficial do Telegram */
+    color: #ffffff;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px; /* Bordas arredondadas modernas */
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease; /* Animação suave */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra de profundidade */
+}
+
+/* Efeito quando passa o mouse por cima */
+.btn-telegram:hover {
+    background-color: #0077b5; /* Azul um pouco mais escuro */
+    transform: translateY(-2px); /* Botão "pula" levemente para cima */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Sombra aumenta */
+    color: #ffffff;
+}

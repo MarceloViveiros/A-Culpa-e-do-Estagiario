@@ -17,11 +17,11 @@ if os.path.exists('vagas.json'):
 
 # 3. Montamos a mensagem de resumo
 # Troque o link abaixo pelo link real do seu GitHub Pages!
-link_do_site = "https://SEU_USUARIO.github.io/A-Culpa-e-do-Estagiario/"
+link_do_site = "https://marceloviveiros.github.io/A-Culpa-e-do-Estagiario/"
 
 mensagem = (
     f"🤖 <b>Bip Bop! O Estagiário Automático terminou a varredura!</b>\n\n"
-    f"Hoje temos <b>{total_vagas} vagas</b> de Estágio e Júnior fresquinhas esperando por você na vitrine.\n\n"
+    f"Hoje temos <b>{total_vagas} vagas</b> esperando por você.\n\n"
     f"👉 Confira todas aqui: {link_do_site}"
 )
 
