@@ -20,8 +20,8 @@ if os.path.exists('vagas.json'):
 link_do_site = "https://SEU_USUARIO.github.io/A-Culpa-e-do-Estagiario/"
 
 mensagem = (
-    f"🤖 **Bip Bop! O Estagiário Automático terminou a varredura!**\n\n"
-    f"Hoje temos **{total_vagas} vagas** fresquinhas esperando por você.\n\n"
+    f"🤖 O Estagiário Automático terminou a varredura!*\n\n"
+    f"Hoje temos *{total_vagas} vagas* de Estágio e Júnior fresquinhas esperando por você na vitrine.\n\n"
     f"👉 Confira todas aqui: {link_do_site}"
 )
 
