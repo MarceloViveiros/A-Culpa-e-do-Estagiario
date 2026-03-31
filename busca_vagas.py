@@ -87,5 +87,19 @@ with open('vagas.json', 'w', encoding='utf-8') as arquivo:
     json.dump(vagas_filtradas, arquivo, ensure_ascii=False, indent=4)
     print("Arquivo 'vagas.json' atualizado com sucesso e cheio de vagas!")
 
+def enviar_alerta_telegram(vaga_titulo, vaga_link):
+    token = os.getenv('TELEGRAM_TOKEN')
+    chat_id = os.getenv('TELEGRAM_CHAT_ID')
+    
+    if token and chat_id:
+        mensagem = f"🚀 **NOVA VAGA ENCONTRADA!**\n\n📌 {vaga_titulo}\n🔗 {vaga_link}"
+        url_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        payload = {"chat_id": chat_id, "text": mensagem, "parse_mode": "Markdown"}
+        
+        try:
+            requests.post(url_api, data=payload)
+            print(f"📱 Alerta enviado para o Telegram: {vaga_titulo}")
+        except Exception as e:
+            print(f"❌ Erro ao enviar Telegram: {e}")
 
 

@@ -29,13 +29,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Rodando o robô Caçador de Vagas
+      - name: 🚀 Rodando os robôs Caçadores de Vagas e Alerta
         env:
-          # Aqui o servidor pega o nosso crachá VIP do cofre da nuvem!
-          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB_BUSCA }} 
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB_BUSCA }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python busca_vagas.py
           python busca_programathor.py
+          python alerta_telegram.py
           
       - name: 💾 Salvando (Commit & Push) das vagas novas
         run: |

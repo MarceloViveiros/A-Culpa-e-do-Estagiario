@@ -22,7 +22,7 @@ for pagina in range(1, 6):
     url = f"https://programathor.com.br/jobs/page/{pagina}"
     print(f"📄 Vasculhando a página {pagina}...")
     
-    resposta = scraper.get(url, headers=headers)
+    resposta = cloudscraper.get(url, headers=headers)
     
     if resposta.status_code == 200:
         sopa = BeautifulSoup(resposta.text, 'html.parser')
