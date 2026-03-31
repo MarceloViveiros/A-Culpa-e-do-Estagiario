@@ -14,9 +14,9 @@ jobs:
     
     permissions:
       contents: write
-      
+
     steps:
-      - name: 📥 Baixando o nosso código
+      - name: 📥 Baixando o código
         uses: actions/checkout@v4
 
       - name: 🐍 Preparando o ambiente Python
@@ -33,8 +33,10 @@ jobs:
         env:
           # Aqui o servidor pega o nosso crachá VIP do cofre da nuvem!
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB_BUSCA }} 
-        run: python busca_vagas.py
-
+        run: |
+          python busca_vagas.py
+          python busca_programathor.py
+          
       - name: 💾 Salvando (Commit & Push) das vagas novas
         run: |
           git config --global user.name 'GitHub Actions Bot'

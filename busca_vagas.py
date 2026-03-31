@@ -38,7 +38,7 @@ print("Ligando a turbina de busca...\n")
 print("-" * 40)#linhas fofas
 
 #Lista de palavras chave
-palavras_chave = ['estágio', 'estagio', 'estagiário', 'estagiario', 'trainee']
+palavras_chave = ['estagio', 'estagiario', 'trainee', 'junior']
 
 # Pedi pro Python juntar essas palavras com o '+OR+'
 # O resultado disso vai ser: "estágio+OR+estagio..."cls
@@ -75,6 +75,7 @@ for repo in repositorios:
     
     else:
         print(f"Ops! Deu erro no {repo}. Código: {resposta.status_code}")
+        print(resposta.json())
 
         #Rate limit, colocar o robozin pra descansar por 3 segundos pra não dar ruim nas solicitações
     time.sleep(3)
