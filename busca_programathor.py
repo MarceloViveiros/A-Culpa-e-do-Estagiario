@@ -1,4 +1,4 @@
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import time
 import json #  Nova ferramenta para lidar com o nosso banco de dados
@@ -16,11 +16,13 @@ print("Iniciando a varredura profunda no Programathor...\n")
 # A nossa sacola vazia para guardar as vagas dessa caçada
 vagas_programathor = []
 
+scraper = cloudscraper.create_scraper()
+
 for pagina in range(1, 6):
     url = f"https://programathor.com.br/jobs/page/{pagina}"
     print(f"📄 Vasculhando a página {pagina}...")
     
-    resposta = requests.get(url, headers=headers)
+    resposta = scraper.get(url, headers=headers)
     
     if resposta.status_code == 200:
         sopa = BeautifulSoup(resposta.text, 'html.parser')
