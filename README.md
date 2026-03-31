@@ -1,5 +1,3 @@
-A Culpa é do Estagiário - Agregador Automatizado de Vagas TI
-Sobre o Projeto
 O "A Culpa é do Estagiário" é uma plataforma automatizada de agregação de vagas focada em oportunidades para Estagiários e Desenvolvedores Júnior na área de Tecnologia da Informação. O sistema atua como um pipeline de ETL (Extract, Transform, Load), coletando dados de múltiplas fontes, normalizando as informações em um banco de dados central e apresentando os resultados em uma interface web dinâmica.
 
 A aplicação foi desenvolvida para resolver o problema da dispersão de vagas de entrada em diferentes plataformas e a necessidade de verificação constante por parte dos candidatos.
