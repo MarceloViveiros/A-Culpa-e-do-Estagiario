@@ -10,6 +10,11 @@
         "repositorio": "backend-br/vagas"
     },
     {
+        "titulo": "[HOME OFFICE] Front-end Developer na Nome da Empresa",
+        "link": "https://github.com/frontendbr/vagas/issues/8467",
+        "repositorio": "frontendbr/vagas"
+    },
+    {
         "titulo": "Vaga: Desenvolvedor(a) Frontend Júnior – React.js",
         "link": "https://github.com/react-brasil/vagas/issues/2993",
         "repositorio": "react-brasil/vagas"
