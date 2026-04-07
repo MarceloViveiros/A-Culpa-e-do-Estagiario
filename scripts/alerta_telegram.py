@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import html
 
 print("📢 Iniciando o Estagiário Mensageiro...")
 
@@ -16,12 +17,15 @@ if os.path.exists('../vagas.json'):
         total_vagas = len(vagas)
 
 # Monta a mensagem de resumo
-link_do_site = "https://marceloviveiros.github.io/A-Culpa-e-do-Estagiario/"
+link_do_site = "https://MarceloViveiros.github.io/A-Culpa-e-do-Estagiario/"
+
+# O html.escape protege o link caso ele tenha caracteres especiais
+link_seguro = html.escape(link_do_site)
 
 mensagem = (
-    f"🤖 O Estagiário terminou a varredura!</b>\n\n"
+    f"🤖 <b>O Estagiário terminou a varredura!</b>\n\n"
     f"Hoje temos <b>{total_vagas} vagas</b> esperando por você.\n\n"
-    f"👉 Confira todas aqui: {link_do_site}"
+    f"👉 Confira todas aqui: {link_seguro}"
 )
 
 # Dispara o alerta para o Telegram
@@ -30,7 +34,7 @@ if token and chat_id and total_vagas > 0:
     payload = {
         "chat_id": chat_id, 
         "text": mensagem, 
-        "parse_mode": "HTML" # correção
+        "parse_mode": "HTML"
     }
     
     resposta = requests.post(url_api, data=payload)
