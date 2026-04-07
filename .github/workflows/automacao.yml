@@ -35,9 +35,10 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python busca_vagas.py
-          python busca_programathor.py
-          python alerta_telegram.py
+          python scripts/busca_vagas.py
+          python scripts/busca_programathor.py
+          python scripts/busca_vagas_com.py
+          python scripts/alerta_telegram.py
           
       - name: 💾 Salvando (Commit & Push) das vagas novas
         run: |
