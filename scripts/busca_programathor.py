@@ -1,11 +1,7 @@
 import cloudscraper
 from bs4 import BeautifulSoup
 import time
-<<<<<<< HEAD:scripts/busca_programathor.py
 import json #  ferramenta para lidar com obanco de dados
-=======
-import json #  Nova ferramenta para lidar com o banco de dados
->>>>>>> ab2db62e27d662248430ac57a1f1bc701a436fba:busca_programathor.py
 import os   #  Ferramenta para checar se o arquivo json já existe
 
 dominio_base = 'https://programathor.com.br'
@@ -17,11 +13,7 @@ palavras_chave = ['estagio', 'estagiario', 'trainee', 'junior']
 
 print("Iniciando a varredura profunda no Programathor...\n")
 
-<<<<<<< HEAD:scripts/busca_programathor.py
 # A lista vazia para guardar as vagas
-=======
-# guardar as vagas dessa caçada
->>>>>>> ab2db62e27d662248430ac57a1f1bc701a436fba:busca_programathor.py
 vagas_programathor = []
 
 scraper = cloudscraper.create_scraper()
@@ -75,13 +67,8 @@ print("\n Unindo os dados com as vagas do GitHub...")
 todas_as_vagas = []
 
 # Passo 1: O arquivo vagas.json já existe? Se sim, le o que tem dentro dele
-<<<<<<< HEAD:scripts/busca_programathor.py
 if os.path.exists('../vagas.json'):
     with open('../vagas.json', 'r', encoding='utf-8') as arquivo:
-=======
-if os.path.exists('vagas.json'):
-    with open('vagas.json', 'r', encoding='utf-8') as arquivo:
->>>>>>> ab2db62e27d662248430ac57a1f1bc701a436fba:busca_programathor.py
         todas_as_vagas = json.load(arquivo)
 
 # Passo 2: Junta as vagas velhas (GitHub) com as vagas novas (Programathor)
