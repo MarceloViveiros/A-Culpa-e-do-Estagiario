@@ -65,11 +65,6 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
-    },
-    {
         "titulo": "Estagiário Processos TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805062/estagiario-processos-ti"
@@ -78,6 +73,11 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário de Tecnologia - Ânima",
@@ -93,6 +93,11 @@
         "titulo": "Estágio Consultoria - Engenharias Ou TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
+    },
+    {
+        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
     },
     {
         "titulo": "Estágio em Melhoria Contínua (Tecnologia de Processos)",
@@ -125,14 +130,14 @@
         "link": "https://www.vagas.com.br/vagas/v2783653/banco-de-talentos-estagio"
     },
     {
-        "titulo": "Estágio em Service",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
-    },
-    {
         "titulo": "Estágio em She | Eng. Ambiental Ou Gestão Ambiental",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2799873/estagio-em-she-eng-ambiental-ou-gestao-ambiental"
+    },
+    {
+        "titulo": "Estágio em Service",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
     },
     {
         "titulo": "Estágio em Compras",
@@ -155,6 +160,11 @@
         "link": "https://www.vagas.com.br/vagas/v2804921/estagio-em-sales-operations"
     },
     {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
+    },
+    {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2800109/estagiario-a-em-engenharia-de-vendas"
@@ -162,26 +172,16 @@
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
     },
     {
         "titulo": "Analista Marketing Produto Junior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
-    },
-    {
-        "titulo": "Estágio na Área de Faturamento (Tech e Dados)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801435/estagio-na-area-de-faturamento-tech-e-dados"
-    },
-    {
-        "titulo": "Estagiário",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803000/estagiario"
     }
 ]
