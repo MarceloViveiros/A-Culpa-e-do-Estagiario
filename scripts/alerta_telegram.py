@@ -11,8 +11,8 @@ chat_id = os.getenv('TELEGRAM_CHAT_ID')
 
 # Le o banco de dados atualizado
 total_vagas = 0
-if os.path.exists('../vagas.json'):
-    with open('../vagas.json', 'r', encoding='utf-8') as arquivo:
+if os.path.exists('vagas.json'):
+    with open('vagas.json', 'r', encoding='utf-8') as arquivo:
         vagas = json.load(arquivo)
         total_vagas = len(vagas)
 

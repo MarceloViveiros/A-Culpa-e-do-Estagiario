@@ -62,14 +62,14 @@ if vagas_encontradas:
     print("\n💾 Unindo os dados com o nosso banco (vagas.json)...")
     todas_as_vagas = []
 
-    if os.path.exists('../vagas.json'):
-        with open('../vagas.json', 'r', encoding='utf-8') as arquivo:
+    if os.path.exists('vagas.json'):
+        with open('vagas.json', 'r', encoding='utf-8') as arquivo:
             todas_as_vagas = json.load(arquivo)
 
     # Adiciona as vagas do Vagas.com à lista existente
     todas_as_vagas.extend(vagas_encontradas)
 
-    with open('../vagas.json', 'w', encoding='utf-8') as arquivo:
+    with open('vagas.json', 'w', encoding='utf-8') as arquivo:
         json.dump(todas_as_vagas, arquivo, indent=4, ensure_ascii=False)
 
     print("Vagas.com.br adicionado com sucesso!")

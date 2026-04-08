@@ -83,9 +83,9 @@ print("-" * 40 )#linha fofa
 print(f"Resumo Final: Coletei um total de {len(vagas_filtradas)} vagas de estágio!")
 
 #Salvando no banco de dados
-with open('../vagas.json', 'w', encoding='utf-8') as arquivo:
+with open('vagas.json', 'w', encoding='utf-8') as arquivo:
     json.dump(vagas_filtradas, arquivo, ensure_ascii=False, indent=4)
-    print("Arquivo '../vagas.json' atualizado com sucesso e cheio de vagas!")
+    print("Arquivo 'vagas.json' atualizado com sucesso e cheio de vagas!")
 
 def enviar_alerta_telegram(vaga_titulo, vaga_link):
     token = os.getenv('TELEGRAM_TOKEN')

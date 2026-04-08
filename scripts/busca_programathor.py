@@ -67,15 +67,15 @@ print("\n Unindo os dados com as vagas do GitHub...")
 todas_as_vagas = []
 
 # Passo 1: O arquivo vagas.json já existe? Se sim, le o que tem dentro dele
-if os.path.exists('../vagas.json'):
-    with open('../vagas.json', 'r', encoding='utf-8') as arquivo:
+if os.path.exists('vagas.json'):
+    with open('vagas.json', 'r', encoding='utf-8') as arquivo:
         todas_as_vagas = json.load(arquivo)
 
 # Passo 2: Junta as vagas velhas (GitHub) com as vagas novas (Programathor)
 todas_as_vagas.extend(vagas_programathor)
 
 # Passo 3: Salva tudo de volta no mesmo arquivo
-with open('../vagas.json', 'w', encoding='utf-8') as arquivo:
+with open('vagas.json', 'w', encoding='utf-8') as arquivo:
     json.dump(todas_as_vagas, arquivo, indent=4, ensure_ascii=False)
 
 print("Unificação concluída com sucesso! O vagas.json foi atualizado.")

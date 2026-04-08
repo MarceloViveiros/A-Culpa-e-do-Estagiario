@@ -44,7 +44,13 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
+          
+          # Garante que esta adicionando o arquivo certo, onde quer que ele esteja
           git add vagas.json
-          # Se não tiver vaga nova, ele ignora o erro e segue a vida
-          git commit -m "🤖 auto: atualiza lista de vagas diárias" || echo "Sem mudanças no arquivo JSON hoje."
+          
+          # Se o script salvou o arquivo dentro de 'scripts/vagas.json' por engano,
+          # esse comando abaixo garante que pega ele também:
+          git add scripts/vagas.json || echo "Arquivo não estava na pasta scripts"
+
+          git commit -m "🤖 auto: atualiza lista de vagas diárias [skip ci]" || echo "Sem mudanças no arquivo JSON hoje."
           git push
