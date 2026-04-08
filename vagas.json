@@ -130,14 +130,14 @@
         "link": "https://www.vagas.com.br/vagas/v2783653/banco-de-talentos-estagio"
     },
     {
-        "titulo": "Estágio em She | Eng. Ambiental Ou Gestão Ambiental",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2799873/estagio-em-she-eng-ambiental-ou-gestao-ambiental"
-    },
-    {
         "titulo": "Estágio em Service",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
+    },
+    {
+        "titulo": "Estágio em She | Eng. Ambiental Ou Gestão Ambiental",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2799873/estagio-em-she-eng-ambiental-ou-gestao-ambiental"
     },
     {
         "titulo": "Estágio em Compras",
@@ -178,10 +178,5 @@
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
-    },
-    {
-        "titulo": "Analista Marketing Produto Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
     }
 ]
