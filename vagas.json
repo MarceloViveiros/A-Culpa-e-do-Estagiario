@@ -65,6 +65,11 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
         "titulo": "Estagiário Processos TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805062/estagiario-processos-ti"
@@ -73,11 +78,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário de Tecnologia - Ânima",
@@ -113,11 +113,6 @@
         "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
-    },
-    {
-        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
         "titulo": "Advogado(a) Júnior - Consultivo",
@@ -172,11 +167,11 @@
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
     }
 ]
