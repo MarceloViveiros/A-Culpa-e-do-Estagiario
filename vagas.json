@@ -70,9 +70,9 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -85,14 +85,14 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
         "titulo": "Estagiário de Tecnologia - Ânima",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
-    },
-    {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -100,14 +100,14 @@
         "link": "https://www.vagas.com.br/vagas/v2801542/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
-        "titulo": "Estágio Consultoria - Engenharias Ou TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
-    },
-    {
         "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
+    },
+    {
+        "titulo": "Estágio Consultoria - Engenharias Ou TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
     },
     {
         "titulo": "Estágio em Melhoria Contínua (Tecnologia de Processos)",
@@ -125,9 +125,24 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
+        "titulo": "Estágio em Microbiologia para Tintas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2804949/estagio-em-microbiologia-para-tintas"
+    },
+    {
         "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
+    },
+    {
+        "titulo": "Estágio em Soluções Digitais",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806204/estagio-em-solucoes-digitais"
+    },
+    {
+        "titulo": "Estágio em Data Insights",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2801655/estagio-em-data-insights"
     },
     {
         "titulo": "Advogado(a) Júnior - Consultivo",
@@ -138,6 +153,11 @@
         "titulo": "Banco de Talentos - Estágio",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783653/banco-de-talentos-estagio"
+    },
+    {
+        "titulo": "Estágio em Engenharia de Manutenção Industrial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
     },
     {
         "titulo": "Estágio em Service",
@@ -163,5 +183,10 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Estágio em Marketing",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806855/estagio-em-marketing"
     }
 ]
