@@ -25,18 +25,8 @@
         "repositorio": "react-brasil/vagas"
     },
     {
-        "titulo": "[São Paulo/SP] - Engenheiro(a) de Qualidade @ ITeam",
-        "link": "https://github.com/qa-brasil/vagas/issues/1231",
-        "repositorio": "qa-brasil/vagas"
-    },
-    {
         "titulo": "[VAGA FECHADA] Analista de Testes Júnior na DB1",
         "link": "https://github.com/qa-brasil/vagas/issues/1235",
-        "repositorio": "qa-brasil/vagas"
-    },
-    {
-        "titulo": "[REMOTO] 💻VAGA DE JUNIOR QA TESTER NA CODELEAP💻",
-        "link": "https://github.com/qa-brasil/vagas/issues/1224",
         "repositorio": "qa-brasil/vagas"
     },
     {
@@ -150,11 +140,6 @@
         "link": "https://www.vagas.com.br/vagas/v2804012/advogado-a-junior-consultivo"
     },
     {
-        "titulo": "Banco de Talentos - Estágio",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2783653/banco-de-talentos-estagio"
-    },
-    {
         "titulo": "Estágio em Engenharia de Manutenção Industrial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
@@ -165,14 +150,14 @@
         "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
     },
     {
-        "titulo": "Estágio em She | Eng. Ambiental Ou Gestão Ambiental",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2799873/estagio-em-she-eng-ambiental-ou-gestao-ambiental"
-    },
-    {
         "titulo": "Estágio em Compras",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
+    },
+    {
+        "titulo": "Estágio em Marketing",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806855/estagio-em-marketing"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
@@ -183,10 +168,5 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Estágio em Marketing",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806855/estagio-em-marketing"
     }
 ]
