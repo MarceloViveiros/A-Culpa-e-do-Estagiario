@@ -85,6 +85,11 @@
         "link": "https://www.vagas.com.br/vagas/v2807205/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
+        "titulo": "Estágio Consultoria - Engenharias Ou TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
+    },
+    {
         "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
@@ -145,11 +150,6 @@
         "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
     },
     {
-        "titulo": "Estágio em Marketing",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806855/estagio-em-marketing"
-    },
-    {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
@@ -160,9 +160,9 @@
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Estagiário(a) - Central de Operações",
+        "titulo": "Estágio em Marketing",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2806855/estagio-em-marketing"
     },
     {
         "titulo": "Estágio em Sales Operations",
@@ -170,13 +170,18 @@
         "link": "https://www.vagas.com.br/vagas/v2804921/estagio-em-sales-operations"
     },
     {
-        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+        "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
     }
 ]
