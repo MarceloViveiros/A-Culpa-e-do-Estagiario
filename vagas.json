@@ -10,11 +10,6 @@
         "repositorio": "backend-br/vagas"
     },
     {
-        "titulo": "[Remoto] Back-end/Fullstack developer - Ferreri",
-        "link": "https://github.com/backend-br/vagas/issues/12220",
-        "repositorio": "backend-br/vagas"
-    },
-    {
         "titulo": "[HOME OFFICE] Front-end Developer na Nome da Empresa",
         "link": "https://github.com/frontendbr/vagas/issues/8467",
         "repositorio": "frontendbr/vagas"
@@ -178,15 +173,5 @@
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia de Vendas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia de Vendas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
     }
 ]
