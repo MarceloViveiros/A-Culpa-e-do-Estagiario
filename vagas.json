@@ -50,14 +50,19 @@
         "link": "https://www.vagas.com.br/vagas/v2803022/estagio-de-ti"
     },
     {
+        "titulo": "Analista de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
+    },
+    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -70,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
         "titulo": "Estagiário de Tecnologia - Ânima",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
-    },
-    {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -88,6 +93,11 @@
         "titulo": "Estágio Consultoria - Engenharias Ou TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
+    },
+    {
+        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
     },
     {
         "titulo": "Estágio em Melhoria Contínua (Tecnologia de Processos)",
