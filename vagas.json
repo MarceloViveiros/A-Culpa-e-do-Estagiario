@@ -5,11 +5,6 @@
         "repositorio": "backend-br/vagas"
     },
     {
-        "titulo": "[Remoto] Back-end developer - Connect digital",
-        "link": "https://github.com/backend-br/vagas/issues/12158",
-        "repositorio": "backend-br/vagas"
-    },
-    {
         "titulo": "[HOME OFFICE] Front-end Developer na Nome da Empresa",
         "link": "https://github.com/frontendbr/vagas/issues/8467",
         "repositorio": "frontendbr/vagas"
@@ -45,19 +40,19 @@
         "link": "https://www.vagas.com.br/vagas/v2803022/estagio-de-ti"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
         "titulo": "Analista de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "Estagiário de Tecnologia",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
+    },
+    {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -68,11 +63,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estagiário de Tecnologia - Ânima",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
     },
     {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
@@ -93,6 +83,11 @@
         "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
+    },
+    {
+        "titulo": "Estagiária/Estagiário Superior - TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807848/estagiaria-estagiario-superior-ti"
     },
     {
         "titulo": "Trainee TI (Desenvolvimento Fluig Totvs)",
