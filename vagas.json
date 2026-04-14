@@ -40,6 +40,11 @@
         "link": "https://www.vagas.com.br/vagas/v2803022/estagio-de-ti"
     },
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+    },
+    {
         "titulo": "Analista de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
@@ -50,9 +55,9 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
-        "titulo": "Trainee TI",
+        "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -63,6 +68,21 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
+    },
+    {
+        "titulo": "Estagiário de Tecnologia - Ânima",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
+        "titulo": "Estagiário de Tecnologia - Ânima",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
     },
     {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
@@ -147,12 +167,12 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Estágio em Marketing",
