@@ -75,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
     },
     {
-        "titulo": "Estagiário de Tecnologia - Ânima",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
+    },
+    {
+        "titulo": "Analista de Negócios de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -173,15 +173,5 @@
         "titulo": "Estágio em Orçamento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
     }
 ]
