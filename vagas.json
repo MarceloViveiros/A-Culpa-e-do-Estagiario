@@ -70,11 +70,6 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
-        "titulo": "Estagiário de Tecnologia - Ânima",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805963/estagiario-de-tecnologia-anima"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
@@ -83,6 +78,11 @@
         "titulo": "Analista de Negócios de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
+    },
+    {
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -135,11 +135,6 @@
         "link": "https://www.vagas.com.br/vagas/v2804949/estagio-em-microbiologia-para-tintas"
     },
     {
-        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
-    },
-    {
         "titulo": "Estágio em Soluções Digitais",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806204/estagio-em-solucoes-digitais"
@@ -163,10 +158,5 @@
         "titulo": "Estágio em Engenharia de Manutenção Industrial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
-    },
-    {
-        "titulo": "Estágio em Service",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
     }
 ]
