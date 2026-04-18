@@ -35,9 +35,9 @@
         "link": "https://www.vagas.com.br/vagas/v2803022/estagio-de-ti"
     },
     {
-        "titulo": "Estagiário de Tecnologia",
+        "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Analista de TI Júnior",
@@ -45,9 +45,14 @@
         "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
     },
     {
-        "titulo": "Trainee TI",
+        "titulo": "Estagiário de Tecnologia",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -58,16 +63,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
-    },
-    {
-        "titulo": "Analista de Negócios de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
         "titulo": "Analista de Negócios de TI Júnior",
@@ -133,11 +128,6 @@
         "titulo": "Estágio em Microbiologia para Tintas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804949/estagio-em-microbiologia-para-tintas"
-    },
-    {
-        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
         "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
