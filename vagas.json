@@ -15,11 +15,6 @@
         "repositorio": "react-brasil/vagas"
     },
     {
-        "titulo": "[VAGA FECHADA] Analista de Testes Júnior na DB1",
-        "link": "https://github.com/qa-brasil/vagas/issues/1235",
-        "repositorio": "qa-brasil/vagas"
-    },
-    {
         "titulo": "[Remoto] Kotlin Developer (Sênior) na ITeam",
         "link": "https://github.com/kotlin-br/vagas/issues/42",
         "repositorio": "kotlin-br/vagas"
@@ -28,16 +23,6 @@
         "titulo": "[MARINGÁ] Designer UI/UX Trainee na DB1",
         "link": "https://github.com/remotejobsbr/design-ux-vagas/issues/118",
         "repositorio": "remotejobsbr/design-ux-vagas"
-    },
-    {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
-        "titulo": "Analista de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
     },
     {
         "titulo": "Estagio em TI",
@@ -55,9 +40,14 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "Analista de TI Júnior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
+    },
+    {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -68,6 +58,21 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
+        "titulo": "Analista de Negócios de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
+    },
+    {
+        "titulo": "Analista de Negócios de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
@@ -135,14 +140,9 @@
         "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
-        "titulo": "Estágio em Soluções Digitais",
+        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806204/estagio-em-solucoes-digitais"
-    },
-    {
-        "titulo": "Estágio em Data Insights",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801655/estagio-em-data-insights"
+        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
         "titulo": "Pesquisador Júnior - Ital Cetea - 054518",
@@ -158,5 +158,10 @@
         "titulo": "Estágio em Engenharia de Manutenção Industrial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
+    },
+    {
+        "titulo": "Estágio em Service",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
     }
 ]
