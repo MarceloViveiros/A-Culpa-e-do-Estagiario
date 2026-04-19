@@ -25,16 +25,6 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
-        "titulo": "Analista de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
-    },
-    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
@@ -50,9 +40,14 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "Analista de TI Júnior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
+    },
+    {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -63,6 +58,16 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
+        "titulo": "Analista de Negócios de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
@@ -130,11 +135,6 @@
         "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
-        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
-    },
-    {
         "titulo": "Pesquisador Júnior - Ital Cetea - 054518",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808145/pesquisador-junior-ital-cetea-054518"
@@ -153,5 +153,10 @@
         "titulo": "Estágio em Service",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2802061/estagio-em-service"
+    },
+    {
+        "titulo": "Estágio em Compras",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
     }
 ]
