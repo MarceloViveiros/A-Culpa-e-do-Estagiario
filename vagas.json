@@ -25,11 +25,6 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
@@ -45,14 +40,14 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+    },
+    {
         "titulo": "Analista de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -65,6 +60,16 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+    },
+    {
+        "titulo": "Analista de Negócios de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
+    },
+    {
         "titulo": "Analista de Negócios de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
@@ -73,11 +78,6 @@
         "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
-    },
-    {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
