@@ -45,6 +45,11 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
+        "titulo": "Analista de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
+    },
+    {
         "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
@@ -68,11 +73,6 @@
         "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
-    },
-    {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
@@ -153,15 +153,5 @@
         "titulo": "Estágio em Compras",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
-    },
-    {
-        "titulo": "Estágio em Orçamento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     }
 ]
