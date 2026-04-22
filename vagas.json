@@ -35,19 +35,19 @@
         "link": "https://www.vagas.com.br/vagas/v2803022/estagio-de-ti"
     },
     {
-        "titulo": "Estagiário de Tecnologia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
-    },
-    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Analista de TI Júnior",
+        "titulo": "Estagiário de Tecnologia",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806572/analista-de-ti-junior"
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -60,24 +60,14 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
-    },
-    {
-        "titulo": "Analista de Negócios de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
-        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "titulo": "Analista de Negócios de TI Júnior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
+        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
