@@ -95,11 +95,6 @@
         "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
     },
     {
-        "titulo": "Estagiária/Estagiário Superior - TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807848/estagiaria-estagiario-superior-ti"
-    },
-    {
         "titulo": "Estágio TI - Suporte Aos Usuários",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
@@ -148,5 +143,10 @@
         "titulo": "Estágio em Compras",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
+    },
+    {
+        "titulo": "Estágio em Orçamento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
     }
 ]
