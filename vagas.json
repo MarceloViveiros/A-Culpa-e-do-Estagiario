@@ -25,11 +25,6 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
@@ -45,9 +40,9 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
+        "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -58,6 +53,11 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
+    },
+    {
+        "titulo": "Estágio em TI - Consultoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Analista de Negócios de TI Júnior",
@@ -113,6 +113,11 @@
         "titulo": "Vaga de Estágio – Ciência de Dados / Engenharia da Computação",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808618/vaga-de-estagio-ciencia-de-dados-engenharia-da-computacao"
+    },
+    {
+        "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
     },
     {
         "titulo": "Programa de Estágio B3 - 2026",
