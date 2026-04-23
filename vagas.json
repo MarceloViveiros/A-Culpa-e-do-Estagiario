@@ -25,6 +25,11 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+    },
+    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
@@ -40,9 +45,9 @@
         "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
     },
     {
-        "titulo": "Trainee TI",
+        "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -53,11 +58,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Analista de Negócios de TI Júnior",
@@ -77,12 +77,12 @@
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807205/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+        "link": "https://www.vagas.com.br/vagas/v2807205/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Estágio Consultoria - Engenharias Ou TI",
@@ -140,13 +140,13 @@
         "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
     },
     {
+        "titulo": "Estágio em Customer Service - Barra Funda/SP",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
+    },
+    {
         "titulo": "Estágio em Compras",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
-    },
-    {
-        "titulo": "Estágio em Orçamento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
     }
 ]
