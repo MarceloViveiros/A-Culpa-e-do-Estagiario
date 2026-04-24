@@ -25,19 +25,14 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
-        "titulo": "Estagio em TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
-    },
-    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Estagiário de Tecnologia",
+        "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagiario-de-tecnologia"
+        "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
     },
     {
         "titulo": "Estágio em TI",
@@ -65,9 +60,9 @@
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
+        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
@@ -110,11 +105,6 @@
         "link": "https://www.vagas.com.br/vagas/v2803211/programa-de-estagio-em-tecnologia-afirmativo-para-mulheres"
     },
     {
-        "titulo": "Vaga de Estágio – Ciência de Dados / Engenharia da Computação",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808618/vaga-de-estagio-ciencia-de-dados-engenharia-da-computacao"
-    },
-    {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
@@ -128,5 +118,40 @@
         "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
+    },
+    {
+        "titulo": "Estágio - Núcleo de Inteligência Artificial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
+    },
+    {
+        "titulo": "Pesquisador Júnior - Ital Cetea - 054518",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808145/pesquisador-junior-ital-cetea-054518"
+    },
+    {
+        "titulo": "Advogado(a) Júnior - Consultivo",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2804012/advogado-a-junior-consultivo"
+    },
+    {
+        "titulo": "Estágio em Engenharia de Manutenção Industrial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
+    },
+    {
+        "titulo": "Estágio em EHS Regulatórios",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
+    },
+    {
+        "titulo": "Estágio em Customer Service - Barra Funda/SP",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
+    },
+    {
+        "titulo": "Estágio em Compras",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
     }
 ]
