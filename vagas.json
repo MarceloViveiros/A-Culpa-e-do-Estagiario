@@ -25,14 +25,14 @@
         "repositorio": "remotejobsbr/design-ux-vagas"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
-    },
-    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
+    },
+    {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
         "titulo": "Estagiário de Tecnologia",
@@ -65,14 +65,14 @@
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -90,14 +90,14 @@
         "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
     },
     {
-        "titulo": "Estágio TI - Suporte Aos Usuários",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
-    },
-    {
         "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
+    },
+    {
+        "titulo": "Estágio TI - Suporte Aos Usuários",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
     },
     {
         "titulo": "Trainee TI (Desenvolvimento Fluig Totvs)",
@@ -128,35 +128,5 @@
         "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
-    },
-    {
-        "titulo": "Pesquisador Júnior - Ital Cetea - 054518",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808145/pesquisador-junior-ital-cetea-054518"
-    },
-    {
-        "titulo": "Advogado(a) Júnior - Consultivo",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2804012/advogado-a-junior-consultivo"
-    },
-    {
-        "titulo": "Estágio em Engenharia de Manutenção Industrial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
-    },
-    {
-        "titulo": "Estágio em Customer Service - Barra Funda/SP",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
-    },
-    {
-        "titulo": "Estágio em Compras",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
-    },
-    {
-        "titulo": "Estágio em Orçamento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
     }
 ]
