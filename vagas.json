@@ -30,11 +30,6 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Estagio em TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801444/estagio-em-ti"
-    },
-    {
         "titulo": "Estágio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
@@ -100,11 +95,6 @@
         "link": "https://www.vagas.com.br/vagas/v2791344/trainee-ti-desenvolvimento-fluig-totvs"
     },
     {
-        "titulo": "Programa de Estágio em Tecnologia | Afirmativo para Mulheres",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803211/programa-de-estagio-em-tecnologia-afirmativo-para-mulheres"
-    },
-    {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
@@ -135,11 +125,6 @@
         "link": "https://www.vagas.com.br/vagas/v2804012/advogado-a-junior-consultivo"
     },
     {
-        "titulo": "Estágio em Engenharia de Manutenção Industrial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
-    },
-    {
         "titulo": "Estágio em EHS Regulatórios",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
@@ -150,8 +135,8 @@
         "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
     },
     {
-        "titulo": "Estágio em Compras",
+        "titulo": "Estágio em Orçamento",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801443/estagio-em-compras"
+        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
     }
 ]
