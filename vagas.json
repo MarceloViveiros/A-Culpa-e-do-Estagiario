@@ -1,30 +1,5 @@
 [
     {
-        "titulo": "[Remoto] Kotlin Back-end developer - ITeam",
-        "link": "https://github.com/backend-br/vagas/issues/12201",
-        "repositorio": "backend-br/vagas"
-    },
-    {
-        "titulo": "Vaga: Desenvolvedor(a) Frontend Júnior – React.js",
-        "link": "https://github.com/react-brasil/vagas/issues/2993",
-        "repositorio": "react-brasil/vagas"
-    },
-    {
-        "titulo": "[100% Remoto] QA Jr na Codeleap",
-        "link": "https://github.com/qa-brasil/vagas/issues/1250",
-        "repositorio": "qa-brasil/vagas"
-    },
-    {
-        "titulo": "[Remoto] Kotlin Developer (Sênior) na ITeam",
-        "link": "https://github.com/kotlin-br/vagas/issues/42",
-        "repositorio": "kotlin-br/vagas"
-    },
-    {
-        "titulo": "[MARINGÁ] Designer UI/UX Trainee na DB1",
-        "link": "https://github.com/remotejobsbr/design-ux-vagas/issues/118",
-        "repositorio": "remotejobsbr/design-ux-vagas"
-    },
-    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
