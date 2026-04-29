@@ -5,14 +5,19 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
+        "titulo": "Estágio em TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
+    },
+    {
         "titulo": "Estagiário/a de Informática",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2810868/estagiario-a-de-informatica"
     },
     {
-        "titulo": "Estágio em TI",
+        "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -25,24 +30,19 @@
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
-    },
-    {
         "titulo": "Analista de Negócios de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11209 - Analista de Projetos Junior (TI)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
+    },
+    {
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -60,14 +60,14 @@
         "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
     },
     {
-        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
-    },
-    {
         "titulo": "Estágio TI - Suporte Aos Usuários",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
+    },
+    {
+        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
     },
     {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
@@ -93,6 +93,11 @@
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
+    },
+    {
+        "titulo": "Estágio em Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
     },
     {
         "titulo": "Estágio | Logística",
