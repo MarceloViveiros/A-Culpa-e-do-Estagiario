@@ -5,14 +5,19 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
+        "titulo": "Estágio em TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
+    },
+    {
         "titulo": "Estagiário/a de Informática",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2810868/estagiario-a-de-informatica"
     },
     {
-        "titulo": "Estágio em TI",
+        "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -23,11 +28,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Analista de Negócios de TI Júnior",
@@ -50,24 +50,9 @@
         "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807205/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
-    },
-    {
-        "titulo": "Estágio Consultoria - Engenharias Ou TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
-    },
-    {
-        "titulo": "Estágio TI - Suporte Aos Usuários",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
-    },
-    {
-        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
+        "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
     },
     {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
@@ -123,10 +108,5 @@
         "titulo": "Estágio em Customer Service - Barra Funda/SP",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
-    },
-    {
-        "titulo": "Estágio em Orçamento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
     }
 ]
