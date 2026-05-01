@@ -10,9 +10,9 @@
         "link": "https://www.vagas.com.br/vagas/v2810868/estagiario-a-de-informatica"
     },
     {
-        "titulo": "Estágio em TI",
+        "titulo": "Estágio em TI - Consultoria",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810116/estagio-em-ti"
+        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Estagiário Processos TI",
@@ -23,11 +23,6 @@
         "titulo": "Estagiário de Tecnologia (Suporte N1)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
     },
     {
         "titulo": "Analista de Negócios de TI Júnior",
@@ -60,11 +55,6 @@
         "link": "https://www.vagas.com.br/vagas/v2805432/estagio-consultoria-engenharias-ou-ti"
     },
     {
-        "titulo": "Estagiário de TI - Desenvolvimento e Gestão",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806244/estagiario-de-ti-desenvolvimento-e-gestao"
-    },
-    {
         "titulo": "Estágio TI - Suporte Aos Usuários",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
@@ -88,11 +78,6 @@
         "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
-    },
-    {
-        "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2801239/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
     },
     {
         "titulo": "Estágio - Núcleo de Inteligência Artificial",
@@ -133,5 +118,30 @@
         "titulo": "Estágio em Customer Service - Barra Funda/SP",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
+    },
+    {
+        "titulo": "Estágio em Orçamento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
     }
 ]
