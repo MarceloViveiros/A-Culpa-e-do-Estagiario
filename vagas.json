@@ -30,14 +30,14 @@
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11209 - Analista de Projetos Junior (TI)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
+    },
+    {
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -75,9 +75,39 @@
         "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
     },
     {
-        "titulo": "Programa de Estágio B3 - 2026",
+        "titulo": "Estágio - Núcleo de Inteligência Artificial",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
+    },
+    {
+        "titulo": "Estágio em Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
+    },
+    {
+        "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
+    },
+    {
+        "titulo": "Estágio | Logística",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810799/estagio-logistica"
+    },
+    {
+        "titulo": "11222 - Estagiário Administrativo",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810905/11222-estagiario-administrativo"
+    },
+    {
+        "titulo": "Estágio em EHS Regulatórios",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
+    },
+    {
+        "titulo": "Estágio em Pricing",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811002/estagio-em-pricing"
     },
     {
         "titulo": "Estágio em Customer Service - Barra Funda/SP",
