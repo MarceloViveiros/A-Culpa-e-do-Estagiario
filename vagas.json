@@ -10,34 +10,19 @@
         "link": "https://www.vagas.com.br/vagas/v2810868/estagiario-a-de-informatica"
     },
     {
-        "titulo": "Estágio em TI - Consultoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805052/estagio-em-ti-consultoria"
-    },
-    {
-        "titulo": "Estagiário Processos TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805062/estagiario-processos-ti"
-    },
-    {
-        "titulo": "Estagiário de Tecnologia (Suporte N1)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2804993/estagiario-de-tecnologia-suporte-n1"
-    },
-    {
         "titulo": "Analista de Negócios de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
-    },
-    {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
+    },
+    {
+        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -60,6 +45,11 @@
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
     },
     {
+        "titulo": "Estágio TI - Suporte Aos Usuários",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
+    },
+    {
         "titulo": "Estagiário(a) em TI - Desenvolvimento de Sistemas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2787467/estagiario-a-em-ti-desenvolvimento-de-sistemas"
@@ -73,6 +63,11 @@
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
+    },
+    {
+        "titulo": "Programa de Estágio B3 - 2026",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
         "titulo": "Estágio - Núcleo de Inteligência Artificial",
@@ -122,21 +117,31 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Analista de Marketing Junior (Especialista em Cores)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810721/analista-de-marketing-junior-especialista-em-cores"
+    },
+    {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
+    },
+    {
+        "titulo": "Ergonomista Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
+    },
+    {
+        "titulo": "Estágio - Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
     }
 ]
