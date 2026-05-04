@@ -50,14 +50,14 @@
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
     },
     {
-        "titulo": "Estagiário(a) em TI - Desenvolvimento de Sistemas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2787467/estagiario-a-em-ti-desenvolvimento-de-sistemas"
-    },
-    {
         "titulo": "Estagiária/Estagiário Superior de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811860/estagiaria-estagiario-superior-de-ti"
+    },
+    {
+        "titulo": "Estagiário(a) em TI - Desenvolvimento de Sistemas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2787467/estagiario-a-em-ti-desenvolvimento-de-sistemas"
     },
     {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
@@ -70,6 +70,11 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
+        "titulo": "Estágio - Núcleo de Inteligência Artificial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
+    },
+    {
         "titulo": "Estágio em Segurança do Trabalho",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
@@ -78,11 +83,6 @@
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
-    },
-    {
-        "titulo": "Estágio - Núcleo de Inteligência Artificial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
     },
     {
         "titulo": "Estágio | Logística",
@@ -133,15 +133,5 @@
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estágio - Segurança do Trabalho",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
-    },
-    {
-        "titulo": "Ergonomista Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
     }
 ]
