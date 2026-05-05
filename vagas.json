@@ -70,11 +70,6 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
-        "titulo": "Estágio - Núcleo de Inteligência Artificial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
-    },
-    {
         "titulo": "Estágio em Segurança do Trabalho",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
@@ -83,6 +78,11 @@
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
+    },
+    {
+        "titulo": "Estágio - Núcleo de Inteligência Artificial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
     },
     {
         "titulo": "Estágio | Logística",
@@ -125,13 +125,18 @@
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Analista de Marketing Junior (Especialista em Cores)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810721/analista-de-marketing-junior-especialista-em-cores"
-    },
-    {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
+    },
+    {
+        "titulo": "Estágio - Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
+    },
+    {
+        "titulo": "Ergonomista Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
     }
 ]
