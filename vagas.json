@@ -15,19 +15,14 @@
         "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
     },
     {
-        "titulo": "11209 - Analista de Projetos Junior (TI)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
-    },
-    {
         "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -40,9 +35,9 @@
         "link": "https://www.vagas.com.br/vagas/v2812228/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
-        "titulo": "Estágio TI - Suporte Aos Usuários",
+        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
+        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Estágio TI - Suporte Aos Usuários",
@@ -70,6 +65,11 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
+        "titulo": "Estágio em EHS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
+    },
+    {
         "titulo": "Estágio em Segurança do Trabalho",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
@@ -78,11 +78,6 @@
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
-    },
-    {
-        "titulo": "Estágio - Núcleo de Inteligência Artificial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-nucleo-de-inteligencia-artificial"
     },
     {
         "titulo": "Estágio | Logística",
@@ -128,11 +123,6 @@
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2806254/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estágio - Segurança do Trabalho",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
     },
     {
         "titulo": "Ergonomista Júnior",
