@@ -5,7 +5,7 @@ on:
   schedule:
     # O horário usa o formato "Cron" (Minuto, Hora, Dia, Mês, Dia da Semana)
     # 09:00 no fuso UTC significa 06:00 da manhã no horário de Brasília!
-    - cron: '0 11,17,23 * * *' 
+    - cron: '0 11 * * *' 
   workflow_dispatch: # Essa linha cria um botão para rodarmos manualmente quando quisermos testar!
 
 jobs:
