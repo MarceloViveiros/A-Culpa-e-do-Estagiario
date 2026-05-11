@@ -10,29 +10,24 @@
         "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
     },
     {
-        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
-    },
-    {
         "titulo": "Analista Infraestrutura TI Junior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813044/analista-infraestrutura-ti-junior"
     },
     {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "titulo": "11206 - Gerente de Projetos de TI (Junior)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
-    },
-    {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807205/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+        "link": "https://www.vagas.com.br/vagas/v2806683/11206-gerente-de-projetos-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2812228/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+    },
+    {
+        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Estágio TI - Suporte Aos Usuários",
@@ -55,21 +50,6 @@
         "link": "https://www.vagas.com.br/vagas/v2809839/vaga-de-estagio-exclusiva-pcd-tecnologia-da-informacao-e-area-administrativa-aperam-timoteo"
     },
     {
-        "titulo": "Estágio em Engenharia Química",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2812650/estagio-em-engenharia-quimica"
-    },
-    {
-        "titulo": "Trainee Internacional de Operações Robóticas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2812625/trainee-internacional-de-operacoes-roboticas"
-    },
-    {
-        "titulo": "Programa de Estágio B3 - 2026",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
-    },
-    {
         "titulo": "Estágio em EHS",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
@@ -83,11 +63,6 @@
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
-    },
-    {
-        "titulo": "Estágio | Logística",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810799/estagio-logistica"
     },
     {
         "titulo": "Estágio em EHS Regulatórios",
@@ -148,5 +123,15 @@
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Analista Marketing Produto Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
     }
 ]
