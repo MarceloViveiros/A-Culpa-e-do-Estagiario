@@ -5,11 +5,6 @@
         "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
     },
     {
-        "titulo": "Analista de Negócios de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808240/analista-de-negocios-de-ti-junior"
-    },
-    {
         "titulo": "11209 - Analista de Projetos Junior (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
@@ -25,9 +20,19 @@
         "link": "https://www.vagas.com.br/vagas/v2812228/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "titulo": "Estágio TI - Suporte Aos Usuários",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808100/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
+    },
+    {
+        "titulo": "Trainee TI (Ciências Contábeis)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
     },
     {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
@@ -50,49 +55,34 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
-        "titulo": "Estagio em Supermercado",
+        "titulo": "Estágio em EHS",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809943/estagio-em-supermercado"
+        "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
     },
     {
-        "titulo": "Estagiário Nível Superior - Área Contabilidade",
+        "titulo": "Estágio em Segurança do Trabalho",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2812453/estagiario-nivel-superior-area-contabilidade"
+        "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
     },
     {
-        "titulo": "Estágio em Projetos e Bi - Núcleo de Ia Hstern",
+        "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2807682/estagio-em-projetos-e-bi-nucleo-de-ia-hstern"
+        "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
     },
     {
-        "titulo": "Estagiário",
+        "titulo": "Estágio em EHS Regulatórios",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2790364/estagiario"
+        "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
     },
     {
-        "titulo": "Estagiário",
+        "titulo": "Programa de Estágio",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2813424/estagiario"
+        "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
-        "titulo": "Estágio em Direito",
+        "titulo": "Estágio em Customer Service - Barra Funda/SP",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808236/estagio-em-direito"
-    },
-    {
-        "titulo": "Estágio Nível Superior Jurídico | Rio de Janeiro",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2813970/estagio-nivel-superior-juridico-rio-de-janeiro"
-    },
-    {
-        "titulo": "Estágio na Área de Seguros",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2814311/estagio-na-area-de-seguros"
-    },
-    {
-        "titulo": "Estágio em Orçamento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2808046/estagio-em-orcamento"
+        "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
@@ -102,12 +92,12 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
@@ -118,5 +108,25 @@
         "titulo": "Desenvolvedor | Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813357/desenvolvedor-junior"
+    },
+    {
+        "titulo": "Estágio - Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
+    },
+    {
+        "titulo": "Ergonomista Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
     }
 ]
