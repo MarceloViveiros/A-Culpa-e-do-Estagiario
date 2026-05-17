@@ -70,11 +70,6 @@
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
     },
     {
-        "titulo": "Estágio em EHS Regulatórios",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
-    },
-    {
         "titulo": "Programa de Estágio",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
@@ -92,6 +87,11 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
@@ -100,24 +100,19 @@
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
         "titulo": "Desenvolvedor | Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813357/desenvolvedor-junior"
     },
     {
-        "titulo": "Estágio - Segurança do Trabalho",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
-    },
-    {
         "titulo": "Ergonomista Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
+    },
+    {
+        "titulo": "Estágio - Segurança do Trabalho",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
@@ -128,5 +123,20 @@
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Analista Marketing Produto Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
+    },
+    {
+        "titulo": "Estagiário em Pós-Venda",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
+    },
+    {
+        "titulo": "Estagiário de Dados",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809832/estagiario-de-dados"
     }
 ]
