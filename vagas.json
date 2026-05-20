@@ -1,8 +1,28 @@
 [
     {
-        "titulo": "Analista de Controle de Projetos Junior (VAGA Extensiva para Pessoas com Deficiência)",
+        "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811778/analista-de-controle-de-projetos-junior-vaga-extensiva-para-pessoas-com-deficiencia"
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+    },
+    {
+        "titulo": "11209 - Analista de Projetos Junior (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2808729/11209-analista-de-projetos-junior-ti"
+    },
+    {
+        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2812228/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+    },
+    {
+        "titulo": "Estágio TI - Suporte Aos Usuários",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
+    },
+    {
+        "titulo": "Trainee TI (Ciências Contábeis)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
     },
     {
         "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
@@ -20,6 +40,11 @@
         "link": "https://www.vagas.com.br/vagas/v2812650/estagio-em-engenharia-quimica"
     },
     {
+        "titulo": "443 - Analista de Processos de Contratos - Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2815582/443-analista-de-processos-de-contratos-junior"
+    },
+    {
         "titulo": "Trainee Internacional de Operações Robóticas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2812625/trainee-internacional-de-operacoes-roboticas"
@@ -28,6 +53,11 @@
         "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
+    },
+    {
+        "titulo": "Estágio em Implantação de Sistemas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2815492/estagio-em-implantacao-de-sistemas"
     },
     {
         "titulo": "Estágio em EHS",
@@ -108,20 +138,5 @@
         "titulo": "Analista Marketing Produto Junior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
-    },
-    {
-        "titulo": "Estagiário em Pós-Venda",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
-    },
-    {
-        "titulo": "Estagiário de Dados",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809832/estagiario-de-dados"
-    },
-    {
-        "titulo": "Estágio de Melhoria Contínua - Suzano/SP",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809795/estagio-de-melhoria-continua-suzano-sp"
     }
 ]
