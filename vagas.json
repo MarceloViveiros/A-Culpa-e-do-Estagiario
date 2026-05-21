@@ -20,14 +20,14 @@
         "link": "https://www.vagas.com.br/vagas/v2809575/estagio-ti-suporte-aos-usuarios"
     },
     {
-        "titulo": "Trainee TI (Ciências Contábeis)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
-    },
-    {
         "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
+    },
+    {
+        "titulo": "Estágio Nível Superior - TI | Montes Claros",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
     },
     {
         "titulo": "Vaga de Estágio Exclusiva Pcd | Tecnologia da Informação e Área Administrativa – Aperam Timóteo",
@@ -65,19 +65,14 @@
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
     },
     {
-        "titulo": "Estágio em Segurança do Trabalho",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
-    },
-    {
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
     },
     {
-        "titulo": "Estágio em EHS Regulatórios",
+        "titulo": "Estágio em Engenharia de Manutenção Industrial",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810542/estagio-em-ehs-regulatorios"
+        "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
     },
     {
         "titulo": "Programa de Estágio",
@@ -90,9 +85,9 @@
         "link": "https://www.vagas.com.br/vagas/v2809797/estagio-em-customer-service-barra-funda-sp"
     },
     {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "titulo": "Estágio em Laboratório",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2815813/estagio-em-laboratorio"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
@@ -103,11 +98,6 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Desenvolvedor | Júnior",
@@ -133,10 +123,5 @@
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
-    },
-    {
-        "titulo": "Analista Marketing Produto Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
     }
 ]
