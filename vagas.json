@@ -105,14 +105,14 @@
         "link": "https://www.vagas.com.br/vagas/v2816206/estagio-qualidade"
     },
     {
-        "titulo": "Ergonomista Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
-    },
-    {
         "titulo": "Estágio - Segurança do Trabalho",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
+    },
+    {
+        "titulo": "Ergonomista Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
@@ -128,5 +128,10 @@
         "titulo": "Analista Marketing Produto Junior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2797289/analista-marketing-produto-junior"
+    },
+    {
+        "titulo": "Estagiário em Pós-Venda",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
     }
 ]
