@@ -15,6 +15,11 @@
         "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
     },
     {
+        "titulo": "Estagiário de Suporte e Infraestrutura de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817141/estagiario-de-suporte-e-infraestrutura-de-ti"
+    },
+    {
         "titulo": "Estágio - Tecnologia da Informação (Sistemas)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
@@ -28,6 +33,11 @@
         "titulo": "Estágio Nível Superior - TI | Montes Claros",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
+    },
+    {
+        "titulo": "Analista de Dados Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816999/analista-de-dados-junior"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -80,6 +90,11 @@
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
+        "titulo": "Programa de Estágio Samarco 2026",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817017/programa-de-estagio-samarco-2026"
+    },
+    {
         "titulo": "Estágio em Laboratório",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2815813/estagio-em-laboratorio"
@@ -93,6 +108,16 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio Denso 2026",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817354/programa-de-estagio-denso-2026"
+    },
+    {
+        "titulo": "Estagiário - Qualidade - IDOR SP",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816692/estagiario-qualidade-idor-sp"
     },
     {
         "titulo": "Desenvolvedor | Júnior",
@@ -110,28 +135,8 @@
         "link": "https://www.vagas.com.br/vagas/v2811328/estagio-seguranca-do-trabalho"
     },
     {
-        "titulo": "Ergonomista Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2810991/ergonomista-junior"
-    },
-    {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia de Vendas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia de Vendas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
     }
 ]
