@@ -30,14 +30,14 @@
         "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
     },
     {
-        "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
-    },
-    {
         "titulo": "Estágio Nível Superior - TI | Montes Claros",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
     },
     {
         "titulo": "Analista de Dados Júnior",
@@ -75,9 +75,9 @@
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
     },
     {
-        "titulo": "Estágio em Segurança do Trabalho",
+        "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811544/estagio-em-seguranca-do-trabalho"
+        "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
     },
     {
         "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
@@ -128,6 +128,11 @@
         "titulo": "Estágio Qualidade",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816206/estagio-qualidade"
+    },
+    {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
