@@ -20,24 +20,24 @@
         "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
     },
     {
-        "titulo": "Estágio - Tecnologia da Informação (Sistemas)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
-    },
-    {
         "titulo": "Estagiário de Suporte e Infraestrutura de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817141/estagiario-de-suporte-e-infraestrutura-de-ti"
     },
     {
-        "titulo": "Estágio Nível Superior - TI | Montes Claros",
+        "titulo": "Estágio - Tecnologia da Informação (Sistemas)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
+        "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
     },
     {
         "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
+    },
+    {
+        "titulo": "Estágio Nível Superior - TI | Montes Claros",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
     },
     {
         "titulo": "Analista de Dados Júnior",
@@ -95,11 +95,6 @@
         "link": "https://www.vagas.com.br/vagas/v2817017/programa-de-estagio-samarco-2026"
     },
     {
-        "titulo": "Estágio em Laboratório",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2815813/estagio-em-laboratorio"
-    },
-    {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
@@ -110,9 +105,14 @@
         "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Programa de Estágio Denso 2026",
+        "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817354/programa-de-estagio-denso-2026"
+        "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
+    },
+    {
+        "titulo": "Programa de Estágio Denso 2026 - Santa Bárbara D'oeste/SP",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817354/programa-de-estagio-denso-2026-santa-barbara-d-oeste-sp"
     },
     {
         "titulo": "Estagiário - Qualidade - IDOR SP",
@@ -127,12 +127,12 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
