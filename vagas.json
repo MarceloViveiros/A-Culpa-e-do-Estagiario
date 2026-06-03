@@ -1,13 +1,43 @@
 [
     {
-        "titulo": "Estágio Nível Superior - TI | Montes Claros",
+        "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
+        "link": "https://www.vagas.com.br/vagas/v2806010/trainee-ti"
+    },
+    {
+        "titulo": "Estágio em TI - Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2812228/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
+    },
+    {
+        "titulo": "Trainee TI (Ciências Contábeis)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
+    },
+    {
+        "titulo": "Estagiário de Suporte e Infraestrutura de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817141/estagiario-de-suporte-e-infraestrutura-de-ti"
+    },
+    {
+        "titulo": "Estágio - Tecnologia da Informação (Sistemas)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
     },
     {
         "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
+    },
+    {
+        "titulo": "Estágio Nível Superior - TI | Montes Claros",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
     },
     {
         "titulo": "Analista de Dados Júnior",
@@ -45,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
     },
     {
-        "titulo": "Estagiário(a) de Desenvolvimento Farmacotécnico",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2811295/estagiario-a-de-desenvolvimento-farmacotecnico"
-    },
-    {
         "titulo": "Estágio em Engenharia de Manutenção Industrial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2800505/estagio-em-engenharia-de-manutencao-industrial"
+    },
+    {
+        "titulo": "Estágio Administrativo de Produção",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2818008/estagio-administrativo-de-producao"
     },
     {
         "titulo": "Programa de Estágio",
@@ -107,12 +137,12 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
