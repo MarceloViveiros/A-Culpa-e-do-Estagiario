@@ -95,14 +95,14 @@
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
-    },
-    {
         "titulo": "Programa de Estágio Denso 2026 - Santa Bárbara D'oeste/SP",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817354/programa-de-estagio-denso-2026-santa-barbara-d-oeste-sp"
+    },
+    {
+        "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
     },
     {
         "titulo": "Estagiário - Qualidade - IDOR SP",
@@ -117,12 +117,12 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
@@ -133,5 +133,15 @@
         "titulo": "Estagiário(a) em Engenharia de Vendas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário em Pós-Venda",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
+    },
+    {
+        "titulo": "Estagiário(a) Engenharia Digital - Belo Horizonte/MG",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817366/estagiario-a-engenharia-digital-belo-horizonte-mg"
     }
 ]
