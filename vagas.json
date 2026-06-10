@@ -1,8 +1,18 @@
 [
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
+    },
+    {
         "titulo": "Estágio em TI - Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Estágio - Tecnologia da Informação",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819464/estagio-tecnologia-da-informacao"
     },
     {
         "titulo": "Trainee TI (Ciências Contábeis)",
@@ -40,6 +50,21 @@
         "link": "https://www.vagas.com.br/vagas/v2819158/programa-de-estagio-2026-projetos-de-inteligencia-sistemas-de-informacao-ciencia-da-computacao-engenharia"
     },
     {
+        "titulo": "Trainee It Audit- Porto Alegre/RS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
+    },
+    {
+        "titulo": "Trainee It Audit- Curitiba/PR",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
+    },
+    {
+        "titulo": "Trainee It Audit- Brasilia/DF",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
+    },
+    {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
@@ -75,9 +100,9 @@
         "link": "https://www.vagas.com.br/vagas/v2817017/programa-de-estagio-samarco-2026"
     },
     {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "titulo": "Programa de Estágio Denso 2026 - Manaus/AM",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+        "link": "https://www.vagas.com.br/vagas/v2817354/programa-de-estagio-denso-2026-manaus-am"
     },
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
@@ -93,6 +118,11 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
@@ -112,12 +142,12 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Pessoa Estagiário(a) em Perdas",
@@ -138,30 +168,5 @@
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário(a) Engenharia Digital - Belo Horizonte/MG",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817366/estagiario-a-engenharia-digital-belo-horizonte-mg"
-    },
-    {
-        "titulo": "Estagiário em Pós-Venda",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
-    },
-    {
-        "titulo": "Estágio em Administração",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817639/estagio-em-administracao"
-    },
-    {
-        "titulo": "Estágio em  Tesouraria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816333/estagio-em-tesouraria"
-    },
-    {
-        "titulo": "Trainee — Auditoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2818402/trainee-auditoria"
     }
 ]
