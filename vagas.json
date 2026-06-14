@@ -10,11 +10,6 @@
         "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
     },
     {
-        "titulo": "Estágio - Tecnologia da Informação",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819464/estagio-tecnologia-da-informacao"
-    },
-    {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
@@ -25,14 +20,14 @@
         "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
     },
     {
-        "titulo": "Estagiário de Suporte e Infraestrutura de TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817141/estagiario-de-suporte-e-infraestrutura-de-ti"
-    },
-    {
         "titulo": "Estágio - Tecnologia da Informação (Sistemas)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816885/estagio-tecnologia-da-informacao-sistemas"
+    },
+    {
+        "titulo": "Estagiário de Suporte e Infraestrutura de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817141/estagiario-de-suporte-e-infraestrutura-de-ti"
     },
     {
         "titulo": "Estágio em TI (Inteligência Artificial)",
@@ -45,14 +40,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819024/estagio-em-engenharia-de-tecnologia-e-processos"
     },
     {
-        "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
-    },
-    {
         "titulo": "Estágio Nível Superior - TI | Montes Claros",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia e Tecnologia - Barra da Tijuca/RJ",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814854/estagiario-a-em-engenharia-e-tecnologia-barra-da-tijuca-rj"
     },
     {
         "titulo": "Programa de Estágio 2026 - Projetos de Inteligência | Sistemas de Informação - Ciência da Computação - Engenharia",
@@ -60,14 +55,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819158/programa-de-estagio-2026-projetos-de-inteligencia-sistemas-de-informacao-ciencia-da-computacao-engenharia"
     },
     {
-        "titulo": "Trainee It Audit- Porto Alegre/RS",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
-    },
-    {
         "titulo": "Trainee It Audit- Curitiba/PR",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
+    },
+    {
+        "titulo": "Trainee It Audit- Porto Alegre/RS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
     },
     {
         "titulo": "Trainee It Audit- Brasilia/DF",
@@ -125,21 +120,6 @@
         "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
         "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
@@ -157,16 +137,46 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Pessoa Estagiário(a) em Perdas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819112/pessoa-estagiario-a-em-perdas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803309/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia de Vendas",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2803312/estagiario-a-em-engenharia-de-vendas"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
+    },
+    {
+        "titulo": "Estagiário(a) Engenharia Digital - Belo Horizonte/MG",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817366/estagiario-a-engenharia-digital-belo-horizonte-mg"
+    },
+    {
+        "titulo": "Estagiário em Pós-Venda",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
+    },
+    {
+        "titulo": "Estágio em  Tesouraria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816333/estagio-em-tesouraria"
     }
 ]
