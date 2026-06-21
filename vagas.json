@@ -5,11 +5,6 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estágio em TI - Desenvolvimento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
-    },
-    {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
@@ -18,6 +13,11 @@
         "titulo": "Trainee TI (ERP)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
+    },
+    {
+        "titulo": "Estágio em TI - Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (Ciências Contábeis)",
@@ -40,11 +40,6 @@
         "link": "https://www.vagas.com.br/vagas/v2821193/estagio-nivel-superior-em-tecnologia-da-informacao"
     },
     {
-        "titulo": "Estágio Nível Superior - TI | Montes Claros",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2815812/estagio-nivel-superior-ti-montes-claros"
-    },
-    {
         "titulo": "Programa de Estágio 2026 - Projetos de Inteligência | Sistemas de Informação - Ciência da Computação - Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819158/programa-de-estagio-2026-projetos-de-inteligencia-sistemas-de-informacao-ciencia-da-computacao-engenharia"
@@ -55,14 +50,14 @@
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
     },
     {
-        "titulo": "Trainee It Audit- Curitiba/PR",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
-    },
-    {
         "titulo": "Trainee It Audit- Porto Alegre/RS",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
+    },
+    {
+        "titulo": "Trainee It Audit- Curitiba/PR",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
     },
     {
         "titulo": "Trainee It Audit- Brasilia/DF",
@@ -92,11 +87,6 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
@@ -108,6 +98,16 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
     },
     {
         "titulo": "Estagiário - Qualidade - IDOR SP",
@@ -122,17 +122,17 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Pessoa Estagiário(a) em Perdas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819112/pessoa-estagiario-a-em-perdas"
+    },
+    {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
     },
     {
         "titulo": "Estagiário(a) em Engenharia de Vendas",
@@ -153,5 +153,25 @@
         "titulo": "Estagiário(a) Engenharia Digital - Belo Horizonte/MG",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817366/estagiario-a-engenharia-digital-belo-horizonte-mg"
+    },
+    {
+        "titulo": "Estágio em Administração",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2817639/estagio-em-administracao"
+    },
+    {
+        "titulo": "Estágio em  Tesouraria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2816333/estagio-em-tesouraria"
+    },
+    {
+        "titulo": "Trainee — Auditoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2818402/trainee-auditoria"
+    },
+    {
+        "titulo": "Analista SAP Basis Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819197/analista-sap-basis-junior"
     }
 ]
