@@ -5,9 +5,9 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estágio em TI - Desenvolvimento",
+        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (ERP)",
@@ -15,9 +15,9 @@
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
-        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
+        "titulo": "Estágio em TI - Desenvolvimento",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (Ciências Contábeis)",
@@ -45,6 +45,11 @@
         "link": "https://www.vagas.com.br/vagas/v2819158/programa-de-estagio-2026-projetos-de-inteligencia-sistemas-de-informacao-ciencia-da-computacao-engenharia"
     },
     {
+        "titulo": "Analista Administrativo Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2821792/analista-administrativo-junior"
+    },
+    {
         "titulo": "Trainee Engenharias",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
@@ -55,14 +60,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
     },
     {
-        "titulo": "Trainee It Audit- Curitiba/PR",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
-    },
-    {
         "titulo": "Trainee It Audit- Brasilia/DF",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
+    },
+    {
+        "titulo": "Trainee It Audit- Curitiba/PR",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -78,6 +83,11 @@
         "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
+    },
+    {
+        "titulo": "Estágio em Operações de Produto",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2821738/estagio-em-operacoes-de-produto"
     },
     {
         "titulo": "Programa de Estágio Samarco 2026",
@@ -113,11 +123,6 @@
         "titulo": "Estagiário - Qualidade - IDOR SP",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816692/estagiario-qualidade-idor-sp"
-    },
-    {
-        "titulo": "Estágio Qualidade",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816206/estagio-qualidade"
     },
     {
         "titulo": "Estagiário(a) - Central de Operações",
