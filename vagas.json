@@ -5,9 +5,9 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
+        "titulo": "Estágio em TI - Desenvolvimento",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (ERP)",
@@ -15,9 +15,9 @@
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
-        "titulo": "Estágio em TI - Desenvolvimento",
+        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817642/estagio-em-ti-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (Ciências Contábeis)",
@@ -55,14 +55,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
     },
     {
-        "titulo": "Trainee It Audit- Curitiba/PR",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
-    },
-    {
         "titulo": "Trainee It Audit- Brasilia/DF",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
+    },
+    {
+        "titulo": "Trainee It Audit- Curitiba/PR",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -107,11 +107,6 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
@@ -123,6 +118,11 @@
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
@@ -145,11 +145,6 @@
         "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
     },
     {
-        "titulo": "Pessoa Estagiário(a) em Perdas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819112/pessoa-estagiario-a-em-perdas"
-    },
-    {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
@@ -158,11 +153,6 @@
         "titulo": "Estagiário(a) Engenharia Digital - Belo Horizonte/MG",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817366/estagiario-a-engenharia-digital-belo-horizonte-mg"
-    },
-    {
-        "titulo": "Estágio em  Tesouraria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816333/estagio-em-tesouraria"
     },
     {
         "titulo": "Estágio em Administração",
