@@ -40,6 +40,11 @@
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
     },
     {
+        "titulo": "Trainee de Tecnologia | Inteligência Artificial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
+    },
+    {
         "titulo": "Analista Administrativo Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2821792/analista-administrativo-junior"
@@ -55,14 +60,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
     },
     {
-        "titulo": "Trainee It Audit- Brasilia/DF",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
-    },
-    {
         "titulo": "Trainee It Audit- Curitiba/PR",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
+    },
+    {
+        "titulo": "Trainee It Audit- Brasilia/DF",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -85,9 +90,19 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
+        "titulo": "Estagiário",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822800/estagiario"
+    },
+    {
         "titulo": "Analista de Recrutamento e Seleção Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
+    },
+    {
+        "titulo": "Estagiário de Patentes",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
     },
     {
         "titulo": "Estágio em Operações de Produto",
@@ -107,6 +122,11 @@
     {
         "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
         "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
+    },
+    {
+        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
+        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
@@ -120,29 +140,14 @@
         "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
         "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
     },
     {
-        "titulo": "Estagiário - Qualidade - IDOR SP",
+        "titulo": "Analista de Atendimento Junior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816692/estagiario-qualidade-idor-sp"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816812/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816813/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
     },
     {
         "titulo": "Estagiário(a) em Engenharia",
