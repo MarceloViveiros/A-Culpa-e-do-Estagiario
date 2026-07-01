@@ -15,11 +15,6 @@
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
-        "titulo": "Trainee TI (Ciências Contábeis)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2797654/trainee-ti-ciencias-contabeis"
-    },
-    {
         "titulo": "Estágio em TI (Inteligência Artificial)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819860/estagio-em-ti-inteligencia-artificial"
@@ -40,14 +35,14 @@
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
     },
     {
-        "titulo": "Trainee It Audit- Porto Alegre/RS",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
-    },
-    {
         "titulo": "Trainee It Audit- Curitiba/PR",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
+    },
+    {
+        "titulo": "Trainee It Audit- Porto Alegre/RS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
     },
     {
         "titulo": "Trainee It Audit- Brasilia/DF",
@@ -58,11 +53,6 @@
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
-    },
-    {
-        "titulo": "Estágio em Engenharia Química",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2812650/estagio-em-engenharia-quimica"
     },
     {
         "titulo": "Engenheiro de Automação Júnior",
@@ -95,6 +85,11 @@
         "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
     },
     {
+        "titulo": "Estágio em EHS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
+    },
+    {
         "titulo": "Estágio em Operações de Produto",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2821738/estagio-em-operacoes-de-produto"
@@ -103,26 +98,6 @@
         "titulo": "Programa de Estágio",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809218/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805145/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2809217/programa-de-estagio-2026-2-banco-de-talentos"
-    },
-    {
-        "titulo": "Programa de Estágio 2026.2 | Banco de Talentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2805138/programa-de-estagio-2026-2-banco-de-talentos"
     },
     {
         "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
@@ -158,5 +133,15 @@
         "titulo": "Estágio em FP&A",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
+    },
+    {
+        "titulo": "Estágio em Customer Service",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819544/estagio-em-customer-service"
+    },
+    {
+        "titulo": "Analista de Engenharia de Processos Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2818615/analista-de-engenharia-de-processos-junior"
     }
 ]
