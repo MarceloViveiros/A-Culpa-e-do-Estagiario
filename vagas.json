@@ -15,6 +15,11 @@
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
         "titulo": "Estágio em TI (Inteligência Artificial)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819860/estagio-em-ti-inteligencia-artificial"
@@ -35,11 +40,6 @@
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
     },
     {
-        "titulo": "Trainee It Audit- Curitiba/PR",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
-    },
-    {
         "titulo": "Trainee It Audit- Porto Alegre/RS",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
@@ -48,6 +48,11 @@
         "titulo": "Trainee It Audit- Brasilia/DF",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
+    },
+    {
+        "titulo": "Trainee It Audit- Curitiba/PR",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -100,11 +105,6 @@
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
-        "titulo": "Programa de Estágio Denso 2026 - Betim/MG",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2817943/programa-de-estagio-denso-2026-betim-mg"
-    },
-    {
         "titulo": "Analista de Atendimento Junior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
@@ -138,10 +138,5 @@
         "titulo": "Estágio em Customer Service",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819544/estagio-em-customer-service"
-    },
-    {
-        "titulo": "Analista de Engenharia de Processos Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2818615/analista-de-engenharia-de-processos-junior"
     }
 ]
