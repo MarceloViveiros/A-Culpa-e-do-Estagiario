@@ -5,14 +5,19 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
+        "titulo": "Estagiario Tecnologia",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
         "titulo": "Trainee TI (ERP)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
+    },
+    {
+        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (Desenvolvimento)",
@@ -80,14 +85,14 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
-        "titulo": "Analista de Recrutamento e Seleção Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
-    },
-    {
         "titulo": "Estagiário de Patentes",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+    },
+    {
+        "titulo": "Analista de Recrutamento e Seleção Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
     },
     {
         "titulo": "Estágio em EHS",
@@ -110,14 +115,14 @@
         "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
     },
     {
+        "titulo": "Estagiário(a) - Controle e Back Office de Fundos de Investimentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-controle-e-back-office-de-fundos-de-investimentos"
+    },
+    {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Trainee — Auditoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2818402/trainee-auditoria"
     },
     {
         "titulo": "Analista SAP Basis Júnior",
@@ -133,10 +138,5 @@
         "titulo": "Estágio em FP&A",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
-    },
-    {
-        "titulo": "Estágio em Customer Service",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819544/estagio-em-customer-service"
     }
 ]
