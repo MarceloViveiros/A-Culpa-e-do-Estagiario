@@ -10,19 +10,34 @@
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
-        "titulo": "Trainee TI (ERP)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
-    },
-    {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
+        "titulo": "Trainee TI (ERP)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
+    },
+    {
         "titulo": "Trainee TI (Desenvolvimento)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Analista de Suporte de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
+    },
+    {
+        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
+    },
+    {
+        "titulo": "Estágio em Consultoria TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
         "titulo": "Estágio em TI (Inteligência Artificial)",
@@ -58,6 +73,11 @@
         "titulo": "Trainee It Audit- Curitiba/PR",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819291/trainee-it-audit-curitiba-pr"
+    },
+    {
+        "titulo": "Estágio - Núcleo de Educação Digital",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823918/estagio-nucleo-de-educacao-digital"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
