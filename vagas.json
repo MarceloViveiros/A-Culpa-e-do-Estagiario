@@ -10,6 +10,11 @@
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
+        "titulo": "Analista Júnior de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
+    },
+    {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
@@ -25,14 +30,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
-        "titulo": "Analista de Suporte de TI Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
-    },
-    {
         "titulo": "Estagiário(a) de TI – Infraestrutura",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
+    },
+    {
+        "titulo": "Analista de Suporte de TI Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
     },
     {
         "titulo": "Estágio em Consultoria TI",
@@ -80,6 +85,11 @@
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
     },
     {
+        "titulo": "Estágio em Gastronomia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824292/estagio-em-gastronomia"
+    },
+    {
         "titulo": "Engenheiro de Automação Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822315/engenheiro-de-automacao-junior"
@@ -100,14 +110,14 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
-        "titulo": "Estagiário de Patentes",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
-    },
-    {
         "titulo": "Analista de Recrutamento e Seleção Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
+    },
+    {
+        "titulo": "Estagiário de Patentes",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
     },
     {
         "titulo": "Estágio em EHS",
@@ -153,20 +163,5 @@
         "titulo": "Estágio em FP&A",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
-    },
-    {
-        "titulo": "Analista de Qualidade Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822785/analista-de-qualidade-junior"
-    },
-    {
-        "titulo": "Analista de Engenharia de Processos Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2818615/analista-de-engenharia-de-processos-junior"
-    },
-    {
-        "titulo": "Analista de Qualidade Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822673/analista-de-qualidade-junior"
     }
 ]
