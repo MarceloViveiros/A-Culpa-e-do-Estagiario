@@ -5,24 +5,9 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estagiario Tecnologia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
-    },
-    {
         "titulo": "Analista Júnior de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
-    },
-    {
-        "titulo": "Trainee TI (Desenvolvimento)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
-    },
-    {
-        "titulo": "Trainee TI (ERP)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
@@ -30,9 +15,19 @@
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
+        "titulo": "Trainee TI (ERP)",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+        "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
+    },
+    {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
         "titulo": "Analista de Suporte de TI Júnior",
@@ -40,9 +35,9 @@
         "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
     },
     {
-        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "titulo": "Estágio em Consultoria TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
         "titulo": "Estágio em TI (Inteligência Artificial)",
@@ -53,6 +48,11 @@
         "titulo": "Trainee de Tecnologia | Inteligência Artificial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
+    },
+    {
+        "titulo": "Auditor Interno Júnior de Tecnologia - Exclusivo para Pessoas com Deficiência",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824686/auditor-interno-junior-de-tecnologia-exclusivo-para-pessoas-com-deficiencia"
     },
     {
         "titulo": "Analista Administrativo Júnior",
@@ -130,6 +130,11 @@
         "link": "https://www.vagas.com.br/vagas/v2821738/estagio-em-operacoes-de-produto"
     },
     {
+        "titulo": "Estagiária/Estagiário Superior Controle Agroindustrial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824704/estagiaria-estagiario-superior-controle-agroindustrial"
+    },
+    {
         "titulo": "Programa de Estágio",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
@@ -145,14 +150,9 @@
         "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
     },
     {
-        "titulo": "Analista de Atendimento Junior",
+        "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
-    },
-    {
-        "titulo": "Estagiário(a) - Controle e Back Office de Fundos de Investimentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-controle-e-back-office-de-fundos-de-investimentos"
+        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
     },
     {
         "titulo": "Estagiário(a) em Engenharia",
