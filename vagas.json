@@ -65,21 +65,6 @@
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
     },
     {
-        "titulo": "Trainee It Audit- Porto Alegre/RS",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819293/trainee-it-audit-porto-alegre-rs"
-    },
-    {
-        "titulo": "Trainee It Audit- Brasilia/DF",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819294/trainee-it-audit-brasilia-df"
-    },
-    {
-        "titulo": "Estágio - Núcleo de Educação Digital",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823918/estagio-nucleo-de-educacao-digital"
-    },
-    {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
@@ -140,6 +125,16 @@
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
+        "titulo": "Estágio em Desenvolvimento de Software",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
+    },
+    {
+        "titulo": "Analista de Ouvidoria Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824859/analista-de-ouvidoria-junior"
+    },
+    {
         "titulo": "Estágio em Administração",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824442/estagio-em-administracao"
@@ -153,16 +148,6 @@
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Analista SAP Basis Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819197/analista-sap-basis-junior"
     },
     {
         "titulo": "Estágio da Qualidade (SGI)",
