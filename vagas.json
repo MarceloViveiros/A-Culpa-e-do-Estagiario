@@ -1,13 +1,13 @@
 [
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
-    },
-    {
         "titulo": "Analista Júnior de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
+    },
+    {
+        "titulo": "Estagiario Tecnologia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
@@ -153,11 +153,6 @@
         "titulo": "Estágio da Qualidade (SGI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822091/estagio-da-qualidade-sgi"
-    },
-    {
-        "titulo": "Estágio em Administração",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824441/estagio-em-administracao"
     },
     {
         "titulo": "Estágio em FP&A",
