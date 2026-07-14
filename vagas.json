@@ -20,14 +20,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
-        "titulo": "Estagiário(a) de TI – Infraestrutura",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
-    },
-    {
         "titulo": "Analista de Suporte de TI Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
+    },
+    {
+        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
         "titulo": "Estágio em Consultoria TI",
@@ -35,9 +35,19 @@
         "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
+        "titulo": "Estágio Ict (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
+    },
+    {
         "titulo": "Trainee de Tecnologia | Inteligência Artificial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
+    },
+    {
+        "titulo": "Estagiária/Estagiário Superior TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
     },
     {
         "titulo": "Estagiário de Informática - Rio e Grande Rio",
@@ -58,6 +68,11 @@
         "titulo": "Trainee Engenharias",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820272/trainee-engenharias"
+    },
+    {
+        "titulo": "Estágio - Núcleo de Educação Digital",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823918/estagio-nucleo-de-educacao-digital"
     },
     {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
@@ -90,19 +105,24 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
-        "titulo": "Estagiário de Patentes",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
-    },
-    {
         "titulo": "Analista de Recrutamento e Seleção Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
     },
     {
+        "titulo": "Estagiário de Patentes",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+    },
+    {
         "titulo": "Estágio em EHS",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
+    },
+    {
+        "titulo": "Estagiário de Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
     },
     {
         "titulo": "Estágio em Operações de Produto",
