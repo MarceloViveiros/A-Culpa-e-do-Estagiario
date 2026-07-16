@@ -5,14 +5,14 @@
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
     },
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
+    },
+    {
         "titulo": "Estagiario Tecnologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
-    },
-    {
-        "titulo": "Trainee TI (ERP)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820434/trainee-ti-erp"
     },
     {
         "titulo": "Estágio em Consultoria TI",
@@ -38,6 +38,11 @@
         "titulo": "Trainee de Tecnologia | Inteligência Artificial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
+    },
+    {
+        "titulo": "Estagiária/Estagiário Superior TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
     },
     {
         "titulo": "Estagiária/Estagiário Superior TI",
@@ -95,14 +100,19 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
+        "titulo": "Estagiário de Patentes",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+    },
+    {
         "titulo": "Analista de Recrutamento e Seleção Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
     },
     {
-        "titulo": "Estagiário de Patentes",
+        "titulo": "Estagiário de Dados - Supply",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+        "link": "https://www.vagas.com.br/vagas/v2825609/estagiario-de-dados-supply"
     },
     {
         "titulo": "Estágio em EHS",
@@ -123,6 +133,11 @@
         "titulo": "Estagiária/Estagiário Superior Controle Agroindustrial",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824704/estagiaria-estagiario-superior-controle-agroindustrial"
+    },
+    {
+        "titulo": "11308 - Analista de Marketing Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
     },
     {
         "titulo": "Programa de Estágio",
