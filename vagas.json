@@ -5,19 +5,14 @@
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
-    },
-    {
         "titulo": "Estagiario Tecnologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
+        "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
         "titulo": "Analista de Suporte de TI Júnior",
@@ -30,9 +25,19 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
+        "titulo": "Estágio em Consultoria TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+    },
+    {
         "titulo": "Estágio Ict (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
+    },
+    {
+        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825887/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Trainee de Tecnologia | Inteligência Artificial",
@@ -43,16 +48,6 @@
         "titulo": "Estagiária/Estagiário Superior TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
-    },
-    {
-        "titulo": "Estagiária/Estagiário Superior TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
-    },
-    {
-        "titulo": "Estagiário de TI - Rio e Grande Rio",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825069/estagiario-de-ti-rio-e-grande-rio"
     },
     {
         "titulo": "Auditor Interno Júnior de Tecnologia - Exclusivo para Pessoas com Deficiência",
