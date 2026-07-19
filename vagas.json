@@ -45,11 +45,6 @@
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
     },
     {
-        "titulo": "Estagiária/Estagiário Superior TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
-    },
-    {
         "titulo": "Analista Administrativo Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2821792/analista-administrativo-junior"
@@ -70,49 +65,59 @@
         "link": "https://www.vagas.com.br/vagas/v2824292/estagio-em-gastronomia"
     },
     {
-        "titulo": "Auxiliar de Logística Junior",
+        "titulo": "Engenheiro de Automação Júnior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2813312/auxiliar-de-logistica-junior"
+        "link": "https://www.vagas.com.br/vagas/v2822315/engenheiro-de-automacao-junior"
     },
     {
-        "titulo": "Auxiliar de Logística Junior",
+        "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2813313/auxiliar-de-logistica-junior"
+        "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
+    },
+    {
+        "titulo": "Estagiário",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822800/estagiario"
+    },
+    {
+        "titulo": "Programa de Estágio Manas da Tech 2026",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
+    },
+    {
+        "titulo": "Analista de Recrutamento e Seleção Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
+    },
+    {
+        "titulo": "Estagiário de Patentes",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+    },
+    {
+        "titulo": "Estagiário de Dados - Supply",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825609/estagiario-de-dados-supply"
+    },
+    {
+        "titulo": "Estágio em EHS",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
+    },
+    {
+        "titulo": "Estagiário de Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
+    },
+    {
+        "titulo": "Estágio em Operações de Produto",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2821738/estagio-em-operacoes-de-produto"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
-    },
-    {
-        "titulo": "Estágio em Produção",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
-    },
-    {
-        "titulo": "Programa de Estágio",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
-    },
-    {
-        "titulo": "Estágio em Desenvolvimento de Software",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
-    },
-    {
-        "titulo": "Analista de Ouvidoria Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824859/analista-de-ouvidoria-junior"
-    },
-    {
-        "titulo": "Estágio em Administração",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824442/estagio-em-administracao"
-    },
-    {
-        "titulo": "Analista de Atendimento Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
     },
     {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
@@ -123,5 +128,10 @@
         "titulo": "Estágio da Qualidade (SGI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822091/estagio-da-qualidade-sgi"
+    },
+    {
+        "titulo": "Estágio em FP&A",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
     }
 ]
