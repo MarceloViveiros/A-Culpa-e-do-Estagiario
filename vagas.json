@@ -45,6 +45,11 @@
         "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
     },
     {
+        "titulo": "Estagiária/Estagiário Superior TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
+    },
+    {
         "titulo": "Analista Administrativo Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2821792/analista-administrativo-junior"
@@ -85,14 +90,14 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
-        "titulo": "Analista de Recrutamento e Seleção Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
-    },
-    {
         "titulo": "Estagiário de Patentes",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
+    },
+    {
+        "titulo": "Analista de Recrutamento e Seleção Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
     },
     {
         "titulo": "Estagiário de Dados - Supply",
@@ -118,6 +123,16 @@
         "titulo": "11308 - Analista de Marketing Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
+    },
+    {
+        "titulo": "Estágio em Produção",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
+    },
+    {
+        "titulo": "Programa de Estágio",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
