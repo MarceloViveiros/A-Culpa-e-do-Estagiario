@@ -5,19 +5,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
-        "titulo": "Analista Júnior de TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
-    },
-    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
+        "titulo": "Analista Júnior de TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
     },
     {
         "titulo": "Estágio Ict (TI)",
@@ -30,9 +25,9 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Analista de Suporte de TI Júnior",
+        "titulo": "Estágio em Consultoria TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822932/analista-de-suporte-de-ti-junior"
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -40,19 +35,14 @@
         "link": "https://www.vagas.com.br/vagas/v2825887/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
-        "titulo": "Trainee de Tecnologia | Inteligência Artificial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
-    },
-    {
         "titulo": "Estagiária/Estagiário Superior TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
     },
     {
-        "titulo": "Analista Administrativo Júnior",
+        "titulo": "Trainee de Tecnologia | Inteligência Artificial",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2821792/analista-administrativo-junior"
+        "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
     },
     {
         "titulo": "Estágio - Núcleo de Educação Digital",
@@ -115,11 +105,6 @@
         "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
     },
     {
-        "titulo": "Estágio em Operações de Produto",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2821738/estagio-em-operacoes-de-produto"
-    },
-    {
         "titulo": "11308 - Analista de Marketing Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
@@ -135,9 +120,19 @@
         "link": "https://www.vagas.com.br/vagas/v2813803/programa-de-estagio"
     },
     {
+        "titulo": "Empresa Multinacional Seleciona: Analista de Suporte Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2826926/empresa-multinacional-seleciona-analista-de-suporte-junior"
+    },
+    {
         "titulo": "Estágio em Desenvolvimento de Software",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
+    },
+    {
+        "titulo": "Analista de Ouvidoria Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824859/analista-de-ouvidoria-junior"
     },
     {
         "titulo": "Estágio em Administração",
