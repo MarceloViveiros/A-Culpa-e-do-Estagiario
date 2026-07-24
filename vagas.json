@@ -5,14 +5,19 @@
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
+        "titulo": "Analista Júnior de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
+    },
+    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Analista Júnior de TI",
+        "titulo": "Estágio em Consultoria TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
         "titulo": "Estágio Ict (TI)",
@@ -25,11 +30,6 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
-    },
-    {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825887/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
@@ -38,11 +38,6 @@
         "titulo": "Estagiária/Estagiário Superior TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825295/estagiaria-estagiario-superior-ti"
-    },
-    {
-        "titulo": "Trainee de Tecnologia | Inteligência Artificial",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822186/trainee-de-tecnologia-inteligencia-artificial"
     },
     {
         "titulo": "Estágio - Núcleo de Educação Digital",
@@ -70,11 +65,6 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
-        "titulo": "Estagiário",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822800/estagiario"
-    },
-    {
         "titulo": "Programa de Estágio Manas da Tech 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
@@ -83,11 +73,6 @@
         "titulo": "Estagiário de Patentes",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2822818/estagiario-de-patentes"
-    },
-    {
-        "titulo": "Analista de Recrutamento e Seleção Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822123/analista-de-recrutamento-e-selecao-junior"
     },
     {
         "titulo": "Estagiário de Dados - Supply",
@@ -148,5 +133,20 @@
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
+    },
+    {
+        "titulo": "Analista de Dados Junior - Sales Ops",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+    },
+    {
+        "titulo": "Estágio em FP&A",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
+    },
+    {
+        "titulo": "Estagiário em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825055/estagiario-em-engenharia"
     }
 ]
