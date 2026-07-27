@@ -1,13 +1,13 @@
 [
     {
-        "titulo": "Analista Júnior de TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
-    },
-    {
         "titulo": "Estagiario Tecnologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
+    },
+    {
+        "titulo": "Analista Júnior de TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
     },
     {
         "titulo": "Trainee TI",
@@ -15,14 +15,14 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estágio Ict (TI)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
-    },
-    {
         "titulo": "Estágio em Consultoria TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+    },
+    {
+        "titulo": "Estágio Ict (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
     },
     {
         "titulo": "Estagiário(a) de TI – Infraestrutura",
@@ -43,6 +43,11 @@
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
+    },
+    {
+        "titulo": "Estágio em Excelência Operacional e Inovação",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827429/estagio-em-excelencia-operacional-e-inovacao"
     },
     {
         "titulo": "Estágio em Gastronomia",
@@ -110,11 +115,6 @@
         "link": "https://www.vagas.com.br/vagas/v2824442/estagio-em-administracao"
     },
     {
-        "titulo": "Analista de Atendimento Junior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822863/analista-de-atendimento-junior"
-    },
-    {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
@@ -130,6 +130,16 @@
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     },
     {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827401/estagiario-a-em-engenharia"
+    },
+    {
         "titulo": "Estágio em FP&A",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
@@ -138,10 +148,5 @@
         "titulo": "Estagiário em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825055/estagiario-em-engenharia"
-    },
-    {
-        "titulo": "Estágio em Laboratório Ufrj",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2826126/estagio-em-laboratorio-ufrj"
     }
 ]
