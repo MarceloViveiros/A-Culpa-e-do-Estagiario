@@ -1,13 +1,13 @@
 [
     {
-        "titulo": "Estagiario Tecnologia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
-    },
-    {
         "titulo": "Analista Júnior de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
+    },
+    {
+        "titulo": "Estagiario Tecnologia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
     },
     {
         "titulo": "Trainee TI",
@@ -15,19 +15,34 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
-    },
-    {
         "titulo": "Estágio Ict (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
     },
     {
+        "titulo": "Estágio em Consultoria TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+    },
+    {
         "titulo": "Estagiário(a) de TI – Infraestrutura",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
+    },
+    {
+        "titulo": "Analista de Segunraça de TI - Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
+    },
+    {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
         "titulo": "Analista de Segunraça de TI - Júnior",
@@ -70,6 +85,16 @@
         "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
     },
     {
+        "titulo": "Estágio em Laboratório",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827523/estagio-em-laboratorio"
+    },
+    {
+        "titulo": "Analista Administrativo Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827592/analista-administrativo-junior"
+    },
+    {
         "titulo": "Estágio em EHS",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
@@ -80,6 +105,11 @@
         "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
     },
     {
+        "titulo": "Analista de redes  e de  comunicação de  dados Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827612/analista-de-redes-e-de-comunicacao-de-dados-junior"
+    },
+    {
         "titulo": "11308 - Analista de Marketing Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
@@ -88,6 +118,11 @@
         "titulo": "Estágio em Produção",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
+    },
+    {
+        "titulo": "Estágio em Controladoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
     },
     {
         "titulo": "Estágio em Métodos e Processos",
@@ -127,11 +162,6 @@
     {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
     },
     {
@@ -140,13 +170,13 @@
         "link": "https://www.vagas.com.br/vagas/v2827401/estagiario-a-em-engenharia"
     },
     {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
+    },
+    {
         "titulo": "Estágio em FP&A",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2807676/estagio-em-fp-a"
-    },
-    {
-        "titulo": "Estagiário em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825055/estagiario-em-engenharia"
     }
 ]
