@@ -1,10 +1,5 @@
 [
     {
-        "titulo": "Estagiario Tecnologia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823679/estagiario-tecnologia"
-    },
-    {
         "titulo": "Analista Júnior de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
@@ -13,11 +8,6 @@
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
-    },
-    {
-        "titulo": "Estágio em Consultoria TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
     },
     {
         "titulo": "Estágio Ict (TI)",
@@ -30,9 +20,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Analista de Segunraça de TI - Júnior",
+        "titulo": "Estágio em Consultoria TI",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+    },
+    {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -85,11 +80,6 @@
         "link": "https://www.vagas.com.br/vagas/v2827592/analista-administrativo-junior"
     },
     {
-        "titulo": "Estágio em EHS",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2812442/estagio-em-ehs"
-    },
-    {
         "titulo": "Estagiário de Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
@@ -105,14 +95,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Métodos e Processos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
-    },
-    {
         "titulo": "Estágio em Controladoria",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
+    },
+    {
+        "titulo": "Estágio em Métodos e Processos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
     },
     {
         "titulo": "Empresa Multinacional Seleciona: Analista de Suporte Júnior",
@@ -135,6 +125,11 @@
         "link": "https://www.vagas.com.br/vagas/v2824442/estagio-em-administracao"
     },
     {
+        "titulo": "Estágio em Arquivologia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
+    },
+    {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
@@ -143,6 +138,11 @@
         "titulo": "Analista de Dados Junior - Sales Ops",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     },
     {
         "titulo": "Estagiário(a) em Engenharia",
