@@ -10,6 +10,11 @@
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
     },
     {
+        "titulo": "Estágio em Consultoria TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
+    },
+    {
         "titulo": "Estágio Ict (TI)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
@@ -20,19 +25,9 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Estágio em Consultoria TI",
+        "titulo": "Analista de Segunraça de TI - Júnior",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823911/estagio-em-consultoria-ti"
-    },
-    {
-        "titulo": "Trainee TI (Desenvolvimento)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
-    },
-    {
-        "titulo": "Trainee TI (Desenvolvimento)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
     },
     {
         "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
@@ -85,6 +80,36 @@
         "link": "https://www.vagas.com.br/vagas/v2827592/analista-administrativo-junior"
     },
     {
+        "titulo": "Estagiário de Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825303/estagiario-de-desenvolvimento"
+    },
+    {
+        "titulo": "11308 - Analista de Marketing Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
+    },
+    {
+        "titulo": "Estágio em Produção",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
+    },
+    {
+        "titulo": "Estágio em Métodos e Processos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
+    },
+    {
+        "titulo": "Estágio em Controladoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
+    },
+    {
+        "titulo": "Empresa Multinacional Seleciona: Analista de Suporte Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2826926/empresa-multinacional-seleciona-analista-de-suporte-junior"
+    },
+    {
         "titulo": "Estágio em Desenvolvimento de Software",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
@@ -115,6 +140,11 @@
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
     },
     {
+        "titulo": "Analista de Dados Junior - Sales Ops",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+    },
+    {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
@@ -130,8 +160,13 @@
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     },
     {
-        "titulo": "Analista de Dados Junior - Sales Ops",
+        "titulo": "Estagiário - Inside Sales",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+        "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
+    },
+    {
+        "titulo": "Analista de Negócios Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827711/analista-de-negocios-junior"
     }
 ]
