@@ -40,6 +40,11 @@
         "link": "https://www.vagas.com.br/vagas/v2828395/trainee-ti-estatistica-ciencias-atuariais"
     },
     {
+        "titulo": "Estágio - Núcleo de Educação Digital",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823918/estagio-nucleo-de-educacao-digital"
+    },
+    {
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
@@ -90,14 +95,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Controladoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
-    },
-    {
         "titulo": "Estágio em Métodos e Processos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
+    },
+    {
+        "titulo": "Estágio em Controladoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
@@ -163,15 +168,5 @@
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário - Inside Sales",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
-    },
-    {
-        "titulo": "Analista de Negócios Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827711/analista-de-negocios-junior"
     }
 ]
