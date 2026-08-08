@@ -1,10 +1,5 @@
 [
     {
-        "titulo": "Analista Júnior de TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824245/analista-junior-de-ti"
-    },
-    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
@@ -28,11 +23,6 @@
         "titulo": "Trainee TI (Desenvolvimento)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
-    },
-    {
-        "titulo": "Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825887/estagio-engenharia-da-computacao-analise-e-desenvolvimento-de-sistemas-ti-ou-sistemas-de-informacao"
     },
     {
         "titulo": "Trainee TI (estatística/Ciências Atuariais)",
@@ -65,11 +55,6 @@
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
     },
     {
-        "titulo": "Programa de Estágio Manas da Tech 2026",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822824/programa-de-estagio-manas-da-tech-2026"
-    },
-    {
         "titulo": "Banco de Talentos Programa de Estágio - São Paulo - Huawei do Brasil",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827774/banco-de-talentos-programa-de-estagio-sao-paulo-huawei-do-brasil"
@@ -90,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Controladoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
-    },
-    {
         "titulo": "Estágio em Métodos e Processos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
+    },
+    {
+        "titulo": "Estágio em Controladoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
@@ -140,6 +125,11 @@
         "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
     },
     {
+        "titulo": "Analista de Dados Junior - Sales Ops",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+    },
+    {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
@@ -155,8 +145,13 @@
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     },
     {
-        "titulo": "Analista de Dados Junior - Sales Ops",
+        "titulo": "Estagiário - Inside Sales",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+        "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
+    },
+    {
+        "titulo": "Analista de Negócios Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827711/analista-de-negocios-junior"
     }
 ]
