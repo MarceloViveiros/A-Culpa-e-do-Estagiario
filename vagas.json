@@ -15,14 +15,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Analista de Segunraça de TI - Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
-    },
-    {
         "titulo": "Trainee TI (Desenvolvimento)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Analista de Segunraça de TI - Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
     },
     {
         "titulo": "Trainee TI (estatística/Ciências Atuariais)",
@@ -75,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Métodos e Processos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
-    },
-    {
         "titulo": "Estágio em Controladoria",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
+    },
+    {
+        "titulo": "Estágio em Métodos e Processos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
@@ -100,9 +100,9 @@
         "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
     },
     {
-        "titulo": "Analista de Ouvidoria Junior",
+        "titulo": "Estágio em Administração",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2824859/analista-de-ouvidoria-junior"
+        "link": "https://www.vagas.com.br/vagas/v2829542/estagio-em-administracao"
     },
     {
         "titulo": "Estagiário - Desenvolvedor ITSM",
@@ -125,11 +125,6 @@
         "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
     },
     {
-        "titulo": "Analista de Dados Junior - Sales Ops",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
-    },
-    {
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
@@ -145,6 +140,11 @@
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     },
     {
+        "titulo": "Analista de Dados Junior - Sales Ops",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
+    },
+    {
         "titulo": "Estagiário - Inside Sales",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
@@ -153,5 +153,10 @@
         "titulo": "Analista de Negócios Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827711/analista-de-negocios-junior"
+    },
+    {
+        "titulo": "Estagiário em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825055/estagiario-em-engenharia"
     }
 ]
