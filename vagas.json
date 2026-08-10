@@ -15,14 +15,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Trainee TI (Desenvolvimento)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
-    },
-    {
         "titulo": "Analista de Segunraça de TI - Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
+    },
+    {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
         "titulo": "Trainee TI (estatística/Ciências Atuariais)",
@@ -75,14 +75,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Controladoria",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
-    },
-    {
         "titulo": "Estágio em Métodos e Processos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
+    },
+    {
+        "titulo": "Estágio em Controladoria",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
