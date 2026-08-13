@@ -1,8 +1,18 @@
 [
     {
+        "titulo": "Desenvolvedor - Full Stack - Junior",
+        "repositorio": "Programathor",
+        "link": "https://programathor.com.br/jobs/33705-desenvolvedor-full-stack-junior"
+    },
+    {
         "titulo": "Trainee TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
+    },
+    {
+        "titulo": "Estagio em TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2830078/estagio-em-ti"
     },
     {
         "titulo": "Programa de Estágio 2026 - TI SAP - Administração - Ciências da Computação",
@@ -30,6 +40,11 @@
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
+        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
+    },
+    {
         "titulo": "Trainee TI (estatística/Ciências Atuariais)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828395/trainee-ti-estatistica-ciencias-atuariais"
@@ -48,6 +63,11 @@
         "titulo": "Estágio em Excelência Operacional e Inovação",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827429/estagio-em-excelencia-operacional-e-inovacao"
+    },
+    {
+        "titulo": "Estágio em Gastronomia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2824292/estagio-em-gastronomia"
     },
     {
         "titulo": "Engenheiro de Automação Júnior",
@@ -80,14 +100,14 @@
         "link": "https://www.vagas.com.br/vagas/v2826090/estagio-em-producao"
     },
     {
-        "titulo": "Estágio em Métodos e Processos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
-    },
-    {
         "titulo": "Estágio em Controladoria",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827577/estagio-em-controladoria"
+    },
+    {
+        "titulo": "Estágio em Métodos e Processos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827309/estagio-em-metodos-e-processos"
     },
     {
         "titulo": "11308 - Analista de Marketing Júnior",
@@ -118,35 +138,5 @@
         "titulo": "Estágio em Arquivologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
-    },
-    {
-        "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Analista de Dados Junior - Sales Ops",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827175/analista-de-dados-junior-sales-ops"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827401/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     }
 ]
