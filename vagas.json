@@ -30,14 +30,14 @@
         "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
-        "titulo": "Analista de Segunraça de TI - Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
-    },
-    {
         "titulo": "Trainee TI (Desenvolvimento)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
+    },
+    {
+        "titulo": "Analista de Segunraça de TI - Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827355/analista-de-segunraca-de-ti-junior"
     },
     {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
@@ -138,5 +138,10 @@
         "titulo": "Estágio em Arquivologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
+    },
+    {
+        "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
     }
 ]
