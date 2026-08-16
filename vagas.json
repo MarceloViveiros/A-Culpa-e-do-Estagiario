@@ -40,21 +40,6 @@
         "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
     },
     {
-        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
-    },
-    {
-        "titulo": "Estagiário  Governança e Administração de TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2830599/estagiario-governanca-e-administracao-de-ti"
-    },
-    {
-        "titulo": "Trainee TI (estatística/Ciências Atuariais)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828395/trainee-ti-estatistica-ciencias-atuariais"
-    },
-    {
         "titulo": "Estágio - Núcleo de Educação Digital",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823918/estagio-nucleo-de-educacao-digital"
@@ -163,5 +148,10 @@
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827401/estagiario-a-em-engenharia"
+    },
+    {
+        "titulo": "Estagiário(a) em Engenharia",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
     }
 ]
