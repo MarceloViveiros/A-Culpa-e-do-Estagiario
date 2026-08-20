@@ -10,29 +10,19 @@
         "link": "https://www.vagas.com.br/vagas/v2831010/estagio-em-ti-tecnologia-cotacao-de-seguro"
     },
     {
-        "titulo": "Trainee TI",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
-    },
-    {
         "titulo": "Estagio em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2830078/estagio-em-ti"
     },
     {
+        "titulo": "Trainee TI",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2819459/trainee-ti"
+    },
+    {
         "titulo": "Programa de Estágio 2026 - TI SAP - Administração - Ciências da Computação",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2830028/programa-de-estagio-2026-ti-sap-administracao-ciencias-da-computacao"
-    },
-    {
-        "titulo": "Estágio Ict (TI)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
-    },
-    {
-        "titulo": "Estagiário(a) de TI – Infraestrutura",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
         "titulo": "Analista de Segunraça de TI - Júnior",
@@ -45,14 +35,19 @@
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
     },
     {
-        "titulo": "Trainee TI (Desenvolvimento)",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823347/trainee-ti-desenvolvimento"
-    },
-    {
         "titulo": "Estágio de Engenharia em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2831066/estagio-de-engenharia-em-ti"
+    },
+    {
+        "titulo": "Estágio Ict (TI)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
+    },
+    {
+        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
         "titulo": "Estagiário  Governança e Administração de TI",
@@ -78,6 +73,11 @@
         "titulo": "Estágio Técnico em Mecânica - Projetos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
+    },
+    {
+        "titulo": "Executivo(a) de Vendas B2b | Closer Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2831350/executivo-a-de-vendas-b2b-closer-junior"
     },
     {
         "titulo": "Estágio em Excelência Operacional e Inovação",
@@ -108,6 +108,11 @@
         "titulo": "Estágio em Laboratório",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2827523/estagio-em-laboratorio"
+    },
+    {
+        "titulo": "Estágio em Laboratório",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2831206/estagio-em-laboratorio"
     },
     {
         "titulo": "Analista Administrativo Junior",
@@ -153,5 +158,15 @@
         "titulo": "Estágio em Arquivologia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
+    },
+    {
+        "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
+    },
+    {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
     }
 ]
