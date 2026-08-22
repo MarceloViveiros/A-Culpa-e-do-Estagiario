@@ -50,6 +50,11 @@
         "link": "https://www.vagas.com.br/vagas/v2831066/estagio-de-engenharia-em-ti"
     },
     {
+        "titulo": "Trainee TI (Desenvolvimento)",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2831663/trainee-ti-desenvolvimento"
+    },
+    {
         "titulo": "Estagiário  Governança e Administração de TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2830599/estagiario-governanca-e-administracao-de-ti"
@@ -178,5 +183,15 @@
         "titulo": "Estagiário(a) em Engenharia",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2819240/estagiario-a-em-engenharia"
+    },
+    {
+        "titulo": "Estagiário em Pós-Venda",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2814724/estagiario-em-pos-venda"
+    },
+    {
+        "titulo": "Estagiário - Inside Sales",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
     }
 ]
