@@ -105,6 +105,11 @@
         "link": "https://www.vagas.com.br/vagas/v2832038/analista-administrativo-financeiro-junior-presencial-barueri-sp"
     },
     {
+        "titulo": "Analista Administrativo Junior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2827592/analista-administrativo-junior"
+    },
+    {
         "titulo": "Analista de Suporte Júnior",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2831411/analista-de-suporte-junior"
@@ -113,11 +118,6 @@
         "titulo": "Estagiário em Desenvolvimento de Sistemas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832092/estagiario-em-desenvolvimento-de-sistemas"
-    },
-    {
-        "titulo": "11308 - Analista de Marketing Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2825732/11308-analista-de-marketing-junior"
     },
     {
         "titulo": "Estágio em Controladoria",
@@ -145,11 +145,6 @@
         "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
     },
     {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
-    },
-    {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
@@ -157,16 +152,16 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
+    },
+    {
+        "titulo": "Estagiário(a) - Central de Operações",
+        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832025/estagiario-a-central-de-operacoes"
     },
     {
-        "titulo": "Estagiário(a) em Engenharia",
+        "titulo": "Estagiário - Inside Sales",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827397/estagiario-a-em-engenharia"
-    },
-    {
-        "titulo": "Estagiário(a) em Engenharia",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2827401/estagiario-a-em-engenharia"
+        "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
     }
 ]
