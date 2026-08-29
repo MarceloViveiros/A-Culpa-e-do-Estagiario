@@ -30,6 +30,11 @@
         "link": "https://www.vagas.com.br/vagas/v2825182/estagio-ict-ti"
     },
     {
+        "titulo": "Estagiário(a) de TI – Infraestrutura",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
+    },
+    {
         "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
@@ -38,11 +43,6 @@
         "titulo": "Estágio de Engenharia em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2831066/estagio-de-engenharia-em-ti"
-    },
-    {
-        "titulo": "Estagiário(a) de TI – Infraestrutura",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2823902/estagiario-a-de-ti-infraestrutura"
     },
     {
         "titulo": "Trainee TI (Desenvolvimento)",
@@ -100,14 +100,14 @@
         "link": "https://www.vagas.com.br/vagas/v2831411/analista-de-suporte-junior"
     },
     {
-        "titulo": "Estagiário em Desenvolvimento de Sistemas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2832092/estagiario-em-desenvolvimento-de-sistemas"
-    },
-    {
         "titulo": "Estágio em Desenvolvimento de Software",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
+    },
+    {
+        "titulo": "Estágio em Administração",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2829542/estagio-em-administracao"
     },
     {
         "titulo": "Estágio em Arquivologia",
@@ -133,5 +133,10 @@
         "titulo": "Estagiário - Inside Sales",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828012/estagiario-inside-sales"
+    },
+    {
+        "titulo": "Estágio em Química",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2832704/estagio-em-quimica"
     }
 ]
