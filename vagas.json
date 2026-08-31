@@ -25,11 +25,6 @@
         "link": "https://www.vagas.com.br/vagas/v2830028/programa-de-estagio-2026-ti-sap-administracao-ciencias-da-computacao"
     },
     {
-        "titulo": "Estagiário(a) Tecnologia e Desenvolvimento",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2820154/estagiario-a-tecnologia-e-desenvolvimento"
-    },
-    {
         "titulo": "Estágio de Engenharia em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2831066/estagio-de-engenharia-em-ti"
@@ -58,11 +53,6 @@
         "titulo": "Trainee TI (estatística/Ciências Atuariais)",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2828395/trainee-ti-estatistica-ciencias-atuariais"
-    },
-    {
-        "titulo": "Estágio Técnico em Mecânica - Projetos",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2816905/estagio-tecnico-em-mecanica-projetos"
     },
     {
         "titulo": "Executivo(a) de Vendas B2b | Closer Júnior",
@@ -105,19 +95,24 @@
         "link": "https://www.vagas.com.br/vagas/v2824880/estagio-em-desenvolvimento-de-software"
     },
     {
+        "titulo": "Estágio em Engenharia de Manutenção Industrial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2832766/estagio-em-engenharia-de-manutencao-industrial"
+    },
+    {
+        "titulo": "Estágio em Engenharia de Manutenção Industrial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2832773/estagio-em-engenharia-de-manutencao-industrial"
+    },
+    {
         "titulo": "Estágio em Administração",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2829542/estagio-em-administracao"
     },
     {
-        "titulo": "Estágio em Arquivologia",
+        "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828199/estagio-em-arquivologia"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
+        "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
     },
     {
         "titulo": "Estagiário(a) em Controle e Back Office de Fundos de Investimentos",
@@ -138,5 +133,10 @@
         "titulo": "Estágio em Química",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832704/estagio-em-quimica"
+    },
+    {
+        "titulo": "Programa de Estágio Graduação - 3º Ciclo - 2026",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2828444/programa-de-estagio-graduacao-3-ciclo-2026"
     }
 ]
