@@ -50,6 +50,11 @@
         "link": "https://www.vagas.com.br/vagas/v2832933/analista-junior-de-folha-de-pagamento"
     },
     {
+        "titulo": "Analista de Sistemas Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior"
+    },
+    {
         "titulo": "Programa de Estágio B3 - 2026",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2783038/programa-de-estagio-b3-2026"
@@ -73,6 +78,11 @@
         "titulo": "Estagiário em Desenvolvimento de Sistemas",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832092/estagiario-em-desenvolvimento-de-sistemas"
+    },
+    {
+        "titulo": "Programa de Estágio - Afirmativo Étnico Racial",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2833366/programa-de-estagio-afirmativo-etnico-racial"
     },
     {
         "titulo": "Estágio em Desenvolvimento de Software",
@@ -105,18 +115,8 @@
         "link": "https://www.vagas.com.br/vagas/v2823615/estagiario-a-em-controle-e-back-office-de-fundos-de-investimentos"
     },
     {
-        "titulo": "Estágio em Química",
+        "titulo": "Estagiário(a) - Central de Operações: Atendimento Aos Estudantes",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2832704/estagio-em-quimica"
-    },
-    {
-        "titulo": "Programa de Estágio Graduação - 3º Ciclo - 2026",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828444/programa-de-estagio-graduacao-3-ciclo-2026"
-    },
-    {
-        "titulo": "Analista de Qualidade Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2822673/analista-de-qualidade-junior"
+        "link": "https://www.vagas.com.br/vagas/v2833391/estagiario-a-central-de-operacoes-atendimento-aos-estudantes"
     }
 ]
