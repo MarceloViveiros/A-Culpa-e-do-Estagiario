@@ -20,11 +20,6 @@
         "link": "https://www.vagas.com.br/vagas/v2833713/estagiario-de-ti"
     },
     {
-        "titulo": "Programa de Estágio 2026 - TI SAP - Administração - Ciências da Computação",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2830028/programa-de-estagio-2026-ti-sap-administracao-ciencias-da-computacao"
-    },
-    {
         "titulo": "Estágio de Engenharia em TI",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2831066/estagio-de-engenharia-em-ti"
@@ -50,14 +45,14 @@
         "link": "https://www.vagas.com.br/vagas/v2831350/executivo-a-de-vendas-b2b-closer-junior"
     },
     {
-        "titulo": "Analista de Sistemas Júnior",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior"
-    },
-    {
         "titulo": "Analista Júnior de Folha de Pagamento",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832933/analista-junior-de-folha-de-pagamento"
+    },
+    {
+        "titulo": "Analista de Sistemas Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior"
     },
     {
         "titulo": "Programa de Estágio B3 - 2026",
@@ -73,11 +68,6 @@
         "titulo": "Analista Administrativo Financeiro Junior - Presencial - Barueri SP",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832038/analista-administrativo-financeiro-junior-presencial-barueri-sp"
-    },
-    {
-        "titulo": "Estagiário em Desenvolvimento de Sistemas",
-        "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2832092/estagiario-em-desenvolvimento-de-sistemas"
     },
     {
         "titulo": "Programa de Estágio - Afirmativo Étnico Racial",
@@ -107,11 +97,6 @@
     {
         "titulo": "Estagiário(a) - Central de Operações",
         "repositorio": "Vagas.com.br",
-        "link": "https://www.vagas.com.br/vagas/v2828666/estagiario-a-central-de-operacoes"
-    },
-    {
-        "titulo": "Estagiário(a) - Central de Operações",
-        "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2832025/estagiario-a-central-de-operacoes"
     },
     {
@@ -123,5 +108,15 @@
         "titulo": "Estagiário(a) - Central de Operações: Atendimento Aos Estudantes",
         "repositorio": "Vagas.com.br",
         "link": "https://www.vagas.com.br/vagas/v2833391/estagiario-a-central-de-operacoes-atendimento-aos-estudantes"
+    },
+    {
+        "titulo": "Estágio em Química",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2832704/estagio-em-quimica"
+    },
+    {
+        "titulo": "Analista de Qualidade Júnior",
+        "repositorio": "Vagas.com.br",
+        "link": "https://www.vagas.com.br/vagas/v2822673/analista-de-qualidade-junior"
     }
 ]
